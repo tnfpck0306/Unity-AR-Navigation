@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1493bccd991df7c4282c70117ec5a01a, type: 3}
+  m_Name: PicoNeo2
+  m_EditorClassIdentifier: 
+  Name: Pico Neo 2
+  DeviceID:
+  - Pico
+  - Neo
+  - Pico neo 2
+  isVR: 1
+  RoomScale: 1
+  isMobileVR: 0
+  addHeightDifference: 0
+  LeftHand: {fileID: 4568134260504732879, guid: 9b0bd0189abdea14f9b740f6825a331a,
+    type: 3}
+  RightHand: {fileID: 6898476915702660755, guid: 748ceb594ccead84c9aa7125473f23a9,
+    type: 3}

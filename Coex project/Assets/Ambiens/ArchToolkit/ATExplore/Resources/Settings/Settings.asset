@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0838ef2efe72a0145ac096c1aff0bb0a, type: 3}
+  m_Name: Settings
+  m_EditorClassIdentifier: 
+  StartAutomatically: 1
+  movementType: 0
+  mobileMovementType: 1
+  lockMovementTo: 1
+  walkableLayers:
+    serializedVersion: 2
+    m_Bits: 1
+  RunSpeed: 4.5
+  RunFaster: 15
+  movementSpeed: 2
+  clumbSpeed: 4
+  MouseRotationSpeed: 150
+  TouchRotationSpeed: 20
+  UseRightClickToRotate: 0
+  maxGazeTimer: 1.5
+  movementTypePerPlatform: 3
+  UIShowTouchControls: 0
+  UIShowControlsGuide: 0
+  buildTemplate: {fileID: 11400000, guid: e4c1ab3edc8e9554f8c2a48b849ae371, type: 2}
+  EnableVRSmoothMovement: 0
+  VRFadeTime: 0.1

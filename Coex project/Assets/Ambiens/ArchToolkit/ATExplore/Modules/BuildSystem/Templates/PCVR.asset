@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 12508f071b71b4e42aed0e970a8d5f9a, type: 3}
+  m_Name: PCVR
+  m_EditorClassIdentifier: 
+  Name: Windows VR
+  icon: WindowsVR
+  VRSupported: 1
+  SinglePassStereo: 1
+  isOculus: 0
+  isQuest: 0
+  StartWithVisualization: 0
+  TargetPlatform: 2
+  Devices:
+  - {fileID: 11400000, guid: 0882781ab332e2e40b8fe1eb5b1821fc, type: 2}
+  - {fileID: 11400000, guid: 82f9565001b1c444fb19a0cf974b6a8c, type: 2}
+  - {fileID: 11400000, guid: 1a3e92fbc680a054a86ec02bfa0e2b8f, type: 2}
+  - {fileID: 11400000, guid: 8c7921a7f03a8fd48a8adfb680594770, type: 2}
+  - {fileID: 11400000, guid: 0feab619f126b56429bd65344992106b, type: 2}
+  - {fileID: 11400000, guid: bd192452829020948a6c13dd2c486a33, type: 2}
+  dependencies:
+  - com.unity.textmeshpro
+  - com.unity.xr.legacyinputhelpers
+  - com.unity.xr.management
+  usedNameSpaces:
+  - UnityEngine.SpatialTracking
+  RequiredGraphicAPI: 
+  Symbols:
+  - IS_LEGACY_INPUT_INSTALLED
+  SceneAvailablePrefabs: []

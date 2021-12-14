@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1493bccd991df7c4282c70117ec5a01a, type: 3}
+  m_Name: GearVR
+  m_EditorClassIdentifier: 
+  Name: Gear VR
+  DeviceID:
+  - GearVR
+  - gearvr
+  - samsung
+  - oculus
+  - vr
+  isVR: 1
+  RoomScale: 0
+  isMobileVR: 0
+  addHeightDifference: 1
+  LeftHand: {fileID: 0}
+  RightHand: {fileID: 1465214187968752, guid: 52886bf71db807643af11774c92b708c, type: 3}

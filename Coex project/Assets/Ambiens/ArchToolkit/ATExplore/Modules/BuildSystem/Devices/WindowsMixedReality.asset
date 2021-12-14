@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1493bccd991df7c4282c70117ec5a01a, type: 3}
+  m_Name: WindowsMixedReality
+  m_EditorClassIdentifier: 
+  Name: Windows Mixed Reality Headset
+  DeviceID:
+  - HP Windows Mixed Reality Headset
+  - Lenovo Explorer
+  - DELL VISOR VR1180
+  - odissey
+  - reverb
+  - holographic
+  isVR: 1
+  RoomScale: 1
+  isMobileVR: 0
+  addHeightDifference: 0
+  LeftHand: {fileID: 1193554162417050, guid: 8d6cefdd4f8655e41bcb4a21ce83b67b, type: 3}
+  RightHand: {fileID: 1762479413210624, guid: dd7be9aa588d8cb439c7c2841d1c384e, type: 3}
