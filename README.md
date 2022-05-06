@@ -25,7 +25,7 @@ So, to relieve this inconvenience, we made an indoor AR navigation system. It ca
 
 ## **Features :**
 
-Recognize maps modeled with QR codes.
+Recognize maps modeled with QR codes. 
 <img src="https://user-images.githubusercontent.com/76037656/167076052-72fedd6c-7156-4e60-856d-44fe12ac4dfd.png" width="250" height="250" />
 
 Automatic calculation of the optimal route.
