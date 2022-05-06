@@ -26,7 +26,11 @@ So, to relieve this inconvenience, we made an indoor AR navigation system. It ca
 ## **Features :**
 
 Recognize maps modeled with QR codes.
+
 Automatic calculation of the optimal route.
+
 2D minimap showing the user's current location.
+
 UI indicating the remaining distance to the next point.
+
 Allows users to search for destinations they want.
