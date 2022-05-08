@@ -45,21 +45,32 @@ The device must support ARKit. Lowest possible deployment target is iOS 12.0, bu
 
 ## **Features :**
 
-Recognize maps modeled with QR codes.
+Recognize maps modeled with QR codes.| 2D minimap showing the user's current location.  
+:-------------------------:|:-------------------------:
+<img src="https://user-images.githubusercontent.com/76037656/167076052-72fedd6c-7156-4e60-856d-44fe12ac4dfd.png" width="180px"></img>  |  <img src="https://user-images.githubusercontent.com/76037656/167076131-77ec5ce0-5d99-4eaa-a386-683fc10af319.PNG" width="180px"></img>
+**UI indicating the remaining distance to the next point.**  |  **Allows users to search for destinations they want.**
+<img src="https://user-images.githubusercontent.com/76037656/167076134-9ff25658-95a8-4326-9d03-ddc111f56d67.PNG" width="180px" /></img>  |  <img src="https://user-images.githubusercontent.com/76037656/167076138-715c54db-b397-4eb6-b3ac-55e82d415f6a.png" width="180px"></img>
 
-<img src="https://user-images.githubusercontent.com/76037656/167076052-72fedd6c-7156-4e60-856d-44fe12ac4dfd.png" width="250" height="250" />
+* When the QR code is recognized, the 3D modeled map is brought into the AR environment.
 
-Automatic calculation of the optimal route.
+* After that, when the user clicks on the desired destination, the shortest distance is obtained by using the navigation algorithm to the destination.
 
-2D minimap showing the user's current location.
+* The shortest distance obtained above includes an intermediate point, and the nearest intermediate point from the user is referred to as the next arrival point.
 
-<img src="https://user-images.githubusercontent.com/76037656/167076131-77ec5ce0-5d99-4eaa-a386-683fc10af319.PNG" width="250" height="400" />
+* Here, the arrow indicating the direction, the distance remaining to the next arrival point, and the 2D mini-map make it easier for users to navigate.
 
-UI indicating the remaining distance to the next point.
+* When you arrive at the arrival point, set the middle point to the arrival point and update the direction of the arrow, the remaining distance, and the mini map.
 
-<img src="https://user-images.githubusercontent.com/76037656/167076134-9ff25658-95a8-4326-9d03-ddc111f56d67.PNG" width="200" height="125" />
+* The goal of this project is to make it easier for users to find their way to the desired destination in this way.
 
-Allows users to search for destinations they want.
 
-<img src="https://user-images.githubusercontent.com/76037656/167076138-715c54db-b397-4eb6-b3ac-55e82d415f6a.png" width="250" height="400" />
+
+
+
+
+
+
+
+
+
 
