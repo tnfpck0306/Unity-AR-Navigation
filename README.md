@@ -14,6 +14,26 @@ So, to relieve this inconvenience, we made an indoor AR navigation system. It ca
 
 <img src="https://user-images.githubusercontent.com/76057758/145932425-87711031-24b3-4ae5-b8e5-f97b141acecc.png" width="330" height="100" />
 
+
+## **environment :**
+Unity `2021.1.5f1`   
+ARCore XR `4.2.2`   
+AR Foundation `4.2.2`   
+AT+ Explore `1.4.9f3`   
+SketchUp   
+
+## **Requirements and supported device :**
+Our project is using ARcore package to show AR environment within Unity. That's why you need to use a device that supports ARCore.
+
+### **Android)**   
+Android 8.1 (API 27) or later is required.   
+- The rear (world) camera is emulated as a virtual scene.
+- Front (selfie) cameras are not supported.
+
+### **iOS)**   
+The current project is based on Android, but the Unity project settings allow you to add an iOS experience.   
+The device must support ARKit. Lowest possible deployment target is iOS 12.0, but latest iOS 14.0 is strongly recommended.
+
 ## **3D modeling :**
 
 <img src="https://user-images.githubusercontent.com/76057758/145944357-52d0c379-296c-426c-837c-f75ea2219f84.png" width="500" height="300" />
