@@ -35,15 +35,6 @@ Android 8.1 (API 27) or later is required.
 The current project is based on Android, but the Unity project settings allow you to add an iOS experience.   
 The device must support ARKit. Lowest possible deployment target is iOS 12.0, but latest iOS 14.0 is strongly recommended.
 
-## **3D modeling :**
-
-<img src="https://user-images.githubusercontent.com/76057758/145944357-52d0c379-296c-426c-837c-f75ea2219f84.png" width="500" height="300" />
-
-## **Store AR object :**
-
-<img src="https://user-images.githubusercontent.com/76057758/145944550-049b7eca-f8b5-4176-b7b0-49bfe86159ba.png" width="250" height="400" />
-
-
 ## **How it work :**
 
 Recognize maps modeled with QR codes.| 2D minimap showing the user's current location.  
