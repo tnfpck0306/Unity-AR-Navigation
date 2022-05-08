@@ -7,15 +7,14 @@ It's Indoor AR Navigation made with Unity.
 
 The interior of the large building is very spacious and there are many roads, so it’s not easy to get to the desired location. The building may have a map, but you can’t memorize each one.
 
-So, to relieve this inconvenience, we made an indoor AR navigation system. It can be used anywhere 3D modeling is prepared.!
+So, to relieve this inconvenience, we made an indoor AR navigation system. It can be used anywhere 3D modeling is prepared!.
+
+guide the user on the way   
+AR environment for easy and visual help   
+providing additional information
 
 
-## **Goal :**
-
-<img src="https://user-images.githubusercontent.com/76057758/145932425-87711031-24b3-4ae5-b8e5-f97b141acecc.png" width="330" height="100" />
-
-
-## **environment :**
+## **Environment :**
 Unity `2021.1.5f1`   
 ARCore XR `4.2.2`   
 AR Foundation `4.2.2`   
@@ -43,7 +42,7 @@ The device must support ARKit. Lowest possible deployment target is iOS 12.0, bu
 <img src="https://user-images.githubusercontent.com/76057758/145944550-049b7eca-f8b5-4176-b7b0-49bfe86159ba.png" width="250" height="400" />
 
 
-## **Features :**
+## **How it work :**
 
 Recognize maps modeled with QR codes.| 2D minimap showing the user's current location.  
 :-------------------------:|:-------------------------:
@@ -63,14 +62,31 @@ Recognize maps modeled with QR codes.| 2D minimap showing the user's current loc
 
 * The goal of this project is to make it easier for users to find their way to the desired destination in this way.
 
+## **Features :**
 
+### `Collider`
+The collision function was used to recognize that the user reached the crosspoint or arrival point.
 
+### `Image Tracking`
+The camera recognizes the predetermined image, creates and designates a location and an object.
 
+### `Laycast`
+Shooting invisible rays to determine what objects are hit by the rays and then post-processing them.
 
+### `LineRenderer`
+The line renderer draws lines that connect each using an array of two or more points in the 3D space.
+The project draws a line by recognizing the user's location on the map and the following points.
 
+### `LOD Group`
+LOD, Level Of Detail, is one of the optimaization technologies created to reduce the load of the 
+system due to the nature of the project that needs to be implemented in real time.
+Within the project, distant objects were used to make them invisible to the user.
 
+### `Unity UI`
 
+### `2D Sprite`
 
-
-
+### `3D modeling`
+The AR navigation we produced does not use the GPS function.
+We planned a program to check the movement through the virtual 3D map and the user’s camera and show the objects placed in the AR environment.
 
