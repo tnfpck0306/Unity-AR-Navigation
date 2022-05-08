@@ -3,6 +3,8 @@ It's Indoor AR Navigation made with Unity.
 
 -*Youtube video Link : https://youtu.be/Rn-5z8tTJZA*
 
+<img width = 28% src=https://user-images.githubusercontent.com/76057758/167301658-aaa9c6f0-b034-4742-ac03-2b12700e1014.gif />
+
 ## **Introduce project :**
 
 The interior of the large building is very spacious and there are many roads, so it’s not easy to get to the desired location. The building may have a map, but you can’t memorize each one.
