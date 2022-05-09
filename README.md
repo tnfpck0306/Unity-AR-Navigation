@@ -5,15 +5,13 @@ It's Indoor AR Navigation made with Unity.
 
 <img width = 28% src=https://user-images.githubusercontent.com/76057758/167301658-aaa9c6f0-b034-4742-ac03-2b12700e1014.gif />
 
-## **Introduce project :**
-
 The interior of the large building is very spacious and there are many roads, so it’s not easy to get to the desired location. The building may have a map, but you can’t memorize each one.
 
-So, to relieve this inconvenience, we made an indoor AR navigation system. It can be used anywhere 3D modeling is prepared!.
+So, to relieve this inconvenience, we made an indoor AR navigation system. It can be used anywhere 3D modeling is prepared!
 
-guide the user on the way   
-AR environment for easy and visual help   
-providing additional information
+- guide the user on the way   
+- AR environment for easy and visual help   
+- providing additional information
 
 
 ## **Environment :**
