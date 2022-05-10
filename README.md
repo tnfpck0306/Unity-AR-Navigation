@@ -96,4 +96,4 @@ Route exploration uses the Dijktra algorithm to contain information about the ne
 ## **Member:**
 * [Kwon Sun Whan] @Rootofgroot / AI-Software Gachon UNIV.
 * [Jeon Tak] @JEONTAK / AI-Software Gachon UNIV.
-* [Hwang Sung Min] @tnfpck0306 / AI-Software Gachon UNIV.
+* [Hwang Seong Min] @tnfpck0306 / AI-Software Gachon UNIV.
