@@ -85,3 +85,10 @@ Within the project, distant objects were used to make them invisible to the user
 The AR navigation we produced does not use the GPS function.
 We planned a program to check the movement through the virtual 3D map and the user’s camera and show the objects placed in the AR environment.
 
+## **Navigation :**
+
+### `algorithm`
+Start the search based on the destination and explore the shortest path. 
+Route exploration uses the Dijktra algorithm to contain information about the next point at each point, so it can be adjusted immediately if user moves differnt route from the existing path.
+
+![dijk](https://user-images.githubusercontent.com/43882631/167574411-c274843d-fce0-4b63-a961-af20c8858641.gif)
