@@ -92,3 +92,8 @@ The arrow always point to the next location by using 'lookat' function in unity.
 Start the search based on the destination and explore the shortest path. 
 Route exploration uses the Dijktra algorithm to contain information about the next point at each point, so it can be adjusted immediately if user moves differnt route from the existing path.
 ![dijk](https://user-images.githubusercontent.com/43882631/167574411-c274843d-fce0-4b63-a961-af20c8858641.gif)
+
+## **Member:**
+* [Kwon Sun Whan] @Rootofgroot / AI-Software Gachon UNIV.
+* [Jeon Tak] @JEONTAK / AI-Software Gachon UNIV.
+* [Hwang Sung Min] @tnfpck0306 / AI-Software Gachon UNIV.
