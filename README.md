@@ -85,6 +85,9 @@ Within the project, distant objects were used to make them invisible to the user
 The AR navigation we produced does not use the GPS function.
 We planned a program to check the movement through the virtual 3D map and the user’s camera and show the objects placed in the AR environment.
 
+### `Arrow`
+The arrow always point to the next location by using 'lookat' function in unity.
+
 ## **Navigation :**
 
 ### `algorithm`
