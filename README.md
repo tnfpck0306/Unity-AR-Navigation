@@ -37,13 +37,13 @@ The device must support ARKit. Lowest possible deployment target is iOS 12.0, bu
 
 ## **How it work :**
 
-![제목 없음](https://user-images.githubusercontent.com/43882631/169946134-ddfaabd0-07cc-4d6f-8134-10b203afc967.png)
-
 Recognize maps modeled with QR codes.| 2D minimap showing the user's current location.  
 :-------------------------:|:-------------------------:
 <img src="https://user-images.githubusercontent.com/76037656/167076052-72fedd6c-7156-4e60-856d-44fe12ac4dfd.png" width="180px"></img>  |  <img src="https://user-images.githubusercontent.com/76037656/167076131-77ec5ce0-5d99-4eaa-a386-683fc10af319.PNG" width="180px"></img>
 **UI indicating the remaining distance to the next point.**  |  **Allows users to search for destinations they want.**
 <img src="https://user-images.githubusercontent.com/76037656/167076134-9ff25658-95a8-4326-9d03-ddc111f56d67.PNG" width="180px" /></img>  |  <img src="https://user-images.githubusercontent.com/76037656/167076138-715c54db-b397-4eb6-b3ac-55e82d415f6a.png" width="180px"></img>
+
+![uml](https://user-images.githubusercontent.com/43882631/169946258-e265c41d-bad0-434a-837c-87e7056d9049.png)
 
 * When the QR code is recognized, the 3D modeled map is brought into the AR environment.
 
