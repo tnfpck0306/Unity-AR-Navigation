@@ -37,6 +37,8 @@ The device must support ARKit. Lowest possible deployment target is iOS 12.0, bu
 
 ## **How it work :**
 
+![제목 없음](https://user-images.githubusercontent.com/43882631/169946134-ddfaabd0-07cc-4d6f-8134-10b203afc967.png)
+
 Recognize maps modeled with QR codes.| 2D minimap showing the user's current location.  
 :-------------------------:|:-------------------------:
 <img src="https://user-images.githubusercontent.com/76037656/167076052-72fedd6c-7156-4e60-856d-44fe12ac4dfd.png" width="180px"></img>  |  <img src="https://user-images.githubusercontent.com/76037656/167076131-77ec5ce0-5d99-4eaa-a386-683fc10af319.PNG" width="180px"></img>
