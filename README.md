@@ -88,10 +88,8 @@ The AR navigation we produced does not use the GPS function.
 We planned a program to check the movement through the virtual 3D map and the user’s camera and show the objects placed in the AR environment.
 
 ### `Arrow`
-
 The arrow always point to the next location by using 'lookat' function in unity.
-
-https://user-images.githubusercontent.com/43882631/172040850-0b572908-0148-4bcb-a7fd-2ceb63b6b619.mp4
+![arrow](https://user-images.githubusercontent.com/43882631/172040964-6a2c1385-4673-47ba-8da3-145104879ee2.gif)
 
 ### `Dijkstra Algorithm`
 Start the search based on the destination and explore the shortest path. 
