@@ -47,8 +47,6 @@ Recognize maps modeled with QR codes.| 2D minimap showing the user's current loc
 
 
 
-![uml](https://user-images.githubusercontent.com/43882631/169946258-e265c41d-bad0-434a-837c-87e7056d9049/.png)
-
 * When the QR code is recognized, the 3D modeled map is brought into the AR environment.
 
 * After that, when the user clicks on the desired destination, the shortest distance is obtained by using the navigation algorithm to the destination.
