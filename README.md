@@ -63,8 +63,8 @@ Recognize maps modeled with QR codes.| 2D minimap showing the user's current loc
 3D modeling | Dijkstra Algorithm  
 :-------------------------:|:-------------------------:
 <img width=70% src=https://user-images.githubusercontent.com/43882631/172041501-192f2588-e22b-4e92-a0b9-abdc0ff9b0dd.png>  |  <img src="https://user-images.githubusercontent.com/43882631/167574411-c274843d-fce0-4b63-a961-af20c8858641.gif"></img>
-**Arrow**  |  **Algorithm making list of points to destination**
-<img width=60% src="https://user-images.githubusercontent.com/43882631/172040964-6a2c1385-4673-47ba-8da3-145104879ee2.gif"></img>  |  <img src="https://user-images.githubusercontent.com/43882631/172042101-22d92899-2b02-49a4-b91e-3f3c455968ad.png"></img>
+**Algorithm making list of points to destination**  |  **Arrow**
+<img src="https://user-images.githubusercontent.com/43882631/172042101-22d92899-2b02-49a4-b91e-3f3c455968ad.png"></img>  |  <img width=75% src="https://user-images.githubusercontent.com/43882631/172040964-6a2c1385-4673-47ba-8da3-145104879ee2.gif"></img>
 
 * The AR navigation we produced does not use the GPS function. We planned a program to check the movement through the virtual 3D map and the user’s camera and show the objects placed in the AR environment.
 
