@@ -29,7 +29,11 @@ So, to relieve this inconvenience, we made an indoor AR navigation system. It ca
 
 * The AR navigation we produced does not use the GPS function. We planned a program to check the movement through the virtual 3D map and the user’s camera and show the objects placed in the AR environment.
 
-* Start the search based on the destination and explore the shortest path. Route exploration uses the Dijktra algorithm to contain information about the next point at each point, so it can be adjusted immediately if user moves differnt route from the existing path.
+* Start the search based on the destination and explore the shortest path by using Dijktra algorithm. 
+
+* Navigation function make list of each point that contains next point to go. Based on this information, route is made from start to destination.  
+
+* Every time user reachs a point, navigation get that point's value and check it. If it matches with the value from the 'next point', Assign a next location value in 'next point'.  
 
 * The arrow always point to the next location by using 'lookat' function in unity.
 
