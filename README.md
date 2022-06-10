@@ -19,24 +19,23 @@ So, to relieve this inconvenience, we made an indoor AR navigation system. It ca
 ## **System Flow :**
 <img src=https://user-images.githubusercontent.com/76057758/172294345-f0fd2ae5-db00-48c1-ac8f-e0e2b0bf347c.png>
 
-## **Environment :**
-Unity `2021.1.5f1`   
-ARCore XR `4.2.2`   
-AR Foundation `4.2.2`   
-AT+ Explore `1.4.9f3`   
-SketchUp   
+## **How Navigation work :**
 
-## **Requirements and supported device :**
-Our project is using ARcore package to show AR environment within Unity. That's why you need to use a device that supports ARCore.
+3D modeling | Dijkstra Algorithm  
+:-------------------------:|:-------------------------:
+<img width=70% src=https://user-images.githubusercontent.com/43882631/172041501-192f2588-e22b-4e92-a0b9-abdc0ff9b0dd.png>  |  <img src="https://user-images.githubusercontent.com/43882631/167574411-c274843d-fce0-4b63-a961-af20c8858641.gif"></img>
+**Algorithm making list of points to destination**  |  **Arrow**
+<img src="https://user-images.githubusercontent.com/43882631/172042101-22d92899-2b02-49a4-b91e-3f3c455968ad.png"></img>  |  <img width=75% src="https://user-images.githubusercontent.com/43882631/172040964-6a2c1385-4673-47ba-8da3-145104879ee2.gif"></img>
 
-### **Android)**   
-Android 8.1 (API 27) or later is required.   
-- The rear (world) camera is emulated as a virtual scene.
-- Front (selfie) cameras are not supported.
+* The AR navigation we produced does not use the GPS function. We planned a program to check the movement through the virtual 3D map and the user’s camera and show the objects placed in the AR environment.
 
-### **iOS)**   
-The current project is based on Android, but the Unity project settings allow you to add an iOS experience.   
-The device must support ARKit. Lowest possible deployment target is iOS 12.0, but latest iOS 14.0 is strongly recommended.
+* Start the search based on the destination and explore the shortest path. Route exploration uses the Dijktra algorithm to contain information about the next point at each point, so it can be adjusted immediately if user moves differnt route from the existing path.
+
+* The arrow always point to the next location by using 'lookat' function in unity.
+
+<p align="center">
+  <img src=https://user-images.githubusercontent.com/43882631/172041303-8077d8ab-3d2e-4c11-a939-e4803b91f5d5.gif> 
+</p>
 
 ## **How to use it? :**
 
@@ -57,25 +56,6 @@ Recognize maps modeled with QR codes.| 2D minimap showing the user's current loc
 * When you arrive at the arrival point, set the middle point to the arrival point and update the direction of the arrow, the remaining distance, and the mini map.
 
 * The goal of this project is to make it easier for users to find their way to the desired destination in this way.
-
-
-## **How Navigation work :**
-
-3D modeling | Dijkstra Algorithm  
-:-------------------------:|:-------------------------:
-<img width=70% src=https://user-images.githubusercontent.com/43882631/172041501-192f2588-e22b-4e92-a0b9-abdc0ff9b0dd.png>  |  <img src="https://user-images.githubusercontent.com/43882631/167574411-c274843d-fce0-4b63-a961-af20c8858641.gif"></img>
-**Algorithm making list of points to destination**  |  **Arrow**
-<img src="https://user-images.githubusercontent.com/43882631/172042101-22d92899-2b02-49a4-b91e-3f3c455968ad.png"></img>  |  <img width=75% src="https://user-images.githubusercontent.com/43882631/172040964-6a2c1385-4673-47ba-8da3-145104879ee2.gif"></img>
-
-* The AR navigation we produced does not use the GPS function. We planned a program to check the movement through the virtual 3D map and the user’s camera and show the objects placed in the AR environment.
-
-* Start the search based on the destination and explore the shortest path. Route exploration uses the Dijktra algorithm to contain information about the next point at each point, so it can be adjusted immediately if user moves differnt route from the existing path.
-
-* The arrow always point to the next location by using 'lookat' function in unity.
-
-<p align="center">
-  <img src=https://user-images.githubusercontent.com/43882631/172041303-8077d8ab-3d2e-4c11-a939-e4803b91f5d5.gif> 
-</p>
 
 <!---
 ## **Features :**
@@ -102,6 +82,25 @@ Within the project, distant objects were used to make them invisible to the user
 
 ### `2D Sprite`
 --->
+
+## **Environment :**
+Unity `2021.1.5f1`   
+ARCore XR `4.2.2`   
+AR Foundation `4.2.2`   
+AT+ Explore `1.4.9f3`   
+SketchUp   
+
+## **Requirements and supported device :**
+Our project is using ARcore package to show AR environment within Unity. That's why you need to use a device that supports ARCore.
+
+### **Android)**   
+Android 8.1 (API 27) or later is required.   
+- The rear (world) camera is emulated as a virtual scene.
+- Front (selfie) cameras are not supported.
+
+### **iOS)**   
+The current project is based on Android, but the Unity project settings allow you to add an iOS experience.   
+The device must support ARKit. Lowest possible deployment target is iOS 12.0, but latest iOS 14.0 is strongly recommended.
 
 ## **Member:**
 * [Kwon Soon Wan] @RootOfGroot / AI-Software Gachon UNIV.
