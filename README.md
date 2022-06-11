@@ -33,7 +33,7 @@ So, to relieve this inconvenience, we made an indoor AR navigation system. It ca
 
 * Navigation function make list of each point that contains next point to go. Based on this information, route is made from start to destination.  
 
-* Every time user reachs a point, navigation get that point's value and check it. If it matches with the value from the 'next point', Assign a next location's value in 'next point'.  
+* Every time user reachs a point, navigation get that point's value and check it. If it matches with the value from the 'Landmark', Assign a next location's value in 'Landmark'.  
 
 * The arrow always point to the next location by using 'lookat' function in unity.
 
