@@ -1,6 +1,6 @@
 Using pre-set license
 Built from '2021.1/staging' branch; Version is '2021.1.5f1 (3737af19df53) revision 3618735'; Using compiler version '192528614'; Build Type 'Release'
-OS: 'Windows 10 Pro; OS build 19043.1348; Version 2009; 64bit' Language: 'ko' Physical Memory: 16319 MB
+OS: 'Windows 10 Home; OS build 19043.1645; Version 2009; 64bit' Language: 'ko' Physical Memory: 8035 MB
 BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
 
  COMMAND LINE ARGUMENTS:
@@ -11,162 +11,85 @@ C:\Program Files\Unity\Hub\Editor\2021.1.5f1\Editor\Unity.exe
 -name
 AssetImportWorker0
 -projectPath
-C:/Users/Jeon Tak/Desktop/Coex project (5)
+C:/Users/tnfpc/Coex project ver.2
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-62236
-Successfully changed project path to: C:/Users/Jeon Tak/Desktop/Coex project (5)
-C:/Users/Jeon Tak/Desktop/Coex project (5)
+59967
+Successfully changed project path to: C:/Users/tnfpc/Coex project ver.2
+C:/Users/tnfpc/Coex project ver.2
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 99.95 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 106.30 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2021.1.5f1 (3737af19df53)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.1.5f1/Editor/Data/Resources/UnitySubsystems
-[Subsystems] Discovering subsystems at path C:/Users/Jeon Tak/Desktop/Coex project (5)/Assets
+[Subsystems] Discovering subsystems at path C:/Users/tnfpc/Coex project ver.2/Assets
 GfxDevice: creating device client; threaded=0; jobified=0
 Direct3D:
     Version:  Direct3D 11.0 [level 11.1]
-    Renderer: NVIDIA GeForce GTX 1660 Ti (ID=0x2182)
+    Renderer: NVIDIA GeForce GTX 1660 Ti (ID=0x2191)
     Vendor:   NVIDIA
     VRAM:     5991 MB
-    Driver:   30.0.14.7168
+    Driver:   30.0.15.1123
 Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.1.5f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.1.5f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.1.5f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56424
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56384
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.1.5f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.002516 seconds.
+Registered in 0.001870 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 95.79 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 96.45 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.832 seconds
+- Completed reload, in  6.218 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.010161 seconds.
+Registered in 0.005660 seconds.
 Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image C:\Users\Jeon Tak\Desktop\Coex project (5)\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\Jeon Tak\Desktop\Coex project (5)\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\Jeon Tak\Desktop\Coex project (5)\Assets\Ambiens\ArchToolkit\ATExplore\Scripts\ActionSequenceSystem\xNode\xNodeEditor.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\tnfpc\Coex project ver.2\Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\tnfpc\Coex project ver.2\Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\tnfpc\Coex project ver.2\Assets\Ambiens\ArchToolkit\ATExplore\Scripts\ActionSequenceSystem\xNode\xNodeEditor.dll
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.85 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 1.05 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.344 seconds
+- Completed reload, in  1.305 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
-Refreshing native plugins compatible for Editor in 0.83 ms, found 3 plugins.
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 0.64 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3528 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 132.8 MB.
-System memory in use after: 133.0 MB.
+Unloading 3698 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 144.0 MB.
+System memory in use after: 144.2 MB.
 
-Unloading 39 unused Assets to reduce memory usage. Loaded Objects now: 3977.
-Total: 3.106200 ms (FindLiveObjects: 0.344100 ms CreateObjectMapping: 0.111400 ms MarkObjects: 2.537700 ms  DeleteObjects: 0.111500 ms)
+Unloading 37 unused Assets to reduce memory usage. Loaded Objects now: 4162.
+Total: 2.499700 ms (FindLiveObjects: 0.294600 ms CreateObjectMapping: 0.149200 ms MarkObjects: 1.955900 ms  DeleteObjects: 0.098900 ms)
 
-========================================================================
-Received Import Request.
-  path: Assets/nevigation.cs
-  artifactKey: Guid(e64c8aa96fa34ac4083e37689da0248e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/nevigation.cs using Guid(e64c8aa96fa34ac4083e37689da0248e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2422c2c0f82db5bd8b6972da07f3e2d6') in 0.039231 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 36.850907 seconds.
-  path: Assets/nevigation.cs
-  artifactKey: Guid(e64c8aa96fa34ac4083e37689da0248e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/nevigation.cs using Guid(e64c8aa96fa34ac4083e37689da0248e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b09830bfb9a3474d193071465512d9d4') in 0.006277 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 5.661770 seconds.
-  path: Assets/nevigation.cs
-  artifactKey: Guid(e64c8aa96fa34ac4083e37689da0248e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/nevigation.cs using Guid(e64c8aa96fa34ac4083e37689da0248e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '608ee7b01d2423cd79f814e2beb6d6ed') in 0.005084 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 8.082300 seconds.
-  path: Assets/nevigation.cs
-  artifactKey: Guid(e64c8aa96fa34ac4083e37689da0248e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/nevigation.cs using Guid(e64c8aa96fa34ac4083e37689da0248e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd1a85e07ae1062f8e11acb7b49f8242') in 0.004567 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 2.394046 seconds.
-  path: Assets/nevigation.cs
-  artifactKey: Guid(e64c8aa96fa34ac4083e37689da0248e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/nevigation.cs using Guid(e64c8aa96fa34ac4083e37689da0248e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb38b179c8c83cb52ad3c54c26fef015') in 0.003222 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 3.646816 seconds.
-  path: Assets/nevigation.cs
-  artifactKey: Guid(e64c8aa96fa34ac4083e37689da0248e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/nevigation.cs using Guid(e64c8aa96fa34ac4083e37689da0248e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9cff0dcb37588c92f132b98ee65fdc46') in 0.003919 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 12.804410 seconds.
-  path: Assets/nevigation.cs
-  artifactKey: Guid(e64c8aa96fa34ac4083e37689da0248e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/nevigation.cs using Guid(e64c8aa96fa34ac4083e37689da0248e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0574ab58f3f208b0be2f97bd13815bb0') in 0.003613 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 1.687306 seconds.
-  path: Assets/nevigation.cs
-  artifactKey: Guid(e64c8aa96fa34ac4083e37689da0248e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/nevigation.cs using Guid(e64c8aa96fa34ac4083e37689da0248e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd028c027f730a395c10aecc4730b886') in 0.003491 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 17.039339 seconds.
-  path: Assets/nevigation.cs
-  artifactKey: Guid(e64c8aa96fa34ac4083e37689da0248e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/nevigation.cs using Guid(e64c8aa96fa34ac4083e37689da0248e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '273c453dec727dbc09e57dc706034462') in 0.003127 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 5.964651 seconds.
-  path: Assets/nevigation.cs
-  artifactKey: Guid(e64c8aa96fa34ac4083e37689da0248e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/nevigation.cs using Guid(e64c8aa96fa34ac4083e37689da0248e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1dc7139b11d14c915eaabf2aa4d84f8e') in 0.003416 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 3.128600 seconds.
-  path: Assets/nevigation.cs
-  artifactKey: Guid(e64c8aa96fa34ac4083e37689da0248e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/nevigation.cs using Guid(e64c8aa96fa34ac4083e37689da0248e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d809c1d91b140e9131a61845265ac77') in 0.003481 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 11.781715 seconds.
-  path: Assets/nevigation.cs
-  artifactKey: Guid(e64c8aa96fa34ac4083e37689da0248e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/nevigation.cs using Guid(e64c8aa96fa34ac4083e37689da0248e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd75c495d2fa9df4f5a841e2f4a3d8f4e') in 0.004639 seconds 
 ========================================================================
 Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.009636 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image C:\Users\Jeon Tak\Desktop\Coex project (5)\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\Jeon Tak\Desktop\Coex project (5)\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\Jeon Tak\Desktop\Coex project (5)\Assets\Ambiens\ArchToolkit\ATExplore\Scripts\ActionSequenceSystem\xNode\xNodeEditor.dll
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.87 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 4.24 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-NullReferenceException: Object reference not set to an instance of an object
-  at ambiens.archtoolkit.atexplore.XNodeEditor.NodeEditorAssetModProcessor.OnReloadEditor () [0x00045] in <93547090bd264663999e49536baf027a>:0 
+Unloading 15 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 70.0 MB.
+System memory in use after: 70.2 MB.
 
-Mono: successfully reloaded assembly
-- Completed reload, in  1.190 seconds
-Platform modules already initialized, skipping
-Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(524288) extendedPlatform(0)
-Refreshing native plugins compatible for Editor in 0.90 ms, found 3 plugins.
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 4162.
+Total: 2.318100 ms (FindLiveObjects: 0.273100 ms CreateObjectMapping: 0.217900 ms MarkObjects: 1.813400 ms  DeleteObjects: 0.012500 ms)
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 4.09 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3510 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 132.3 MB.
-System memory in use after: 132.5 MB.
+Unloading 15 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 70.0 MB.
+System memory in use after: 70.2 MB.
 
-Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 3981.
-Total: 2.666500 ms (FindLiveObjects: 0.322000 ms CreateObjectMapping: 0.109500 ms MarkObjects: 2.212600 ms  DeleteObjects: 0.021400 ms)
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 4162.
+Total: 3.533300 ms (FindLiveObjects: 0.323300 ms CreateObjectMapping: 0.173800 ms MarkObjects: 3.010900 ms  DeleteObjects: 0.024200 ms)
 
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file

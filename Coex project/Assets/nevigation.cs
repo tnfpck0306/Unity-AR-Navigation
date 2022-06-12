@@ -20,16 +20,15 @@ public class nevigation
     //각 지점들을 계산했는지 확인
     bool[] visited = new bool[pointNum + 1];
 
-
-
-    //최단경로를 기록함
+    //각 지점에서 목적지로 가는 다음점을 기록함
     int[] path = new int[pointNum + 1];
+
+    //내비게이션 경로를 기록함
+    int[] route = new int[pointNum];
 
     //지도의 간선정보-(지점번호/연결된 지점번호/거리)
     List<Tuple<int, int, double>> map = new List<Tuple<int, int, double>>();
 
-    //arrow에 보내줄 다음 위치정보 저장
-    int[] ptoa = new int[pointNum];
 
     //지도 간선정보 입력
     void makemap()
@@ -212,16 +211,10 @@ public class nevigation
         makemap();
 
         Debug.Log("serch Start");
-        serch(start);
+        search(start);
     }
 
-    public void navReset(int nstart)// 경로 재설정
-    {
-        start = nstart;
-        serch(start);
-    }
-
-    void serch(int start)
+    void search(int end)
     {
         for (int i = 0; i < pointNum + 1; i++)//최단거리 기록 초기화
         {
@@ -233,28 +226,29 @@ public class nevigation
             path[i] = BigSize;
         }
 
-        for (int i = 0; i < pointNum; i++)//최단경로 기록 초기화
-        {
-            ptoa[i] = BigSize;
-        }
-
         for (int i = 1; i < pointNum + 1; i++) //visited 초기화
         {
             visited[i] = false;
         }
         visited[0] = true;
 
+
+
+
         //지점간의 거리-50000으로 초기화
         dist = Enumerable.Repeat<double>(BigSize, pointNum + 1).ToArray<double>();
 
+        //탐색 지점에 시작지점을 할당
+        int curr = end;
 
         //시작점의 거리를 0으로 초기화
-        dist[start] = 0;
+        dist[end] = 0;
 
         Debug.Log("dijk Start");
-        Dijk(start);//최단경로 계산
+        Dijk(curr);//최단경로 계산
+
         Debug.Log("rec Start");
-        rec();//최단경로 출력
+        rec(start);//최단경로 출력
     }
 
     void Dijk(int curr)//다익스트라 알고리즘을 이용하여 최단경로 계산
@@ -269,7 +263,7 @@ public class nevigation
         //모든 지점을 계산했는지 확인
         int pCount = 0;
 
-        
+
         while (pCount < pointNum - 1)
         {
             // Debug.Log(pCount + "pCount fin");
@@ -279,7 +273,7 @@ public class nevigation
                 curr = nextlist[pCount];//탐색지점 설정
                 if (map[i].Item1 == curr)//현재 탐색 지점
                 {
-                    if (visited[map[i].Item2] == false)//탐색지점과 연결된 지점이 '탐색되지 않음'상태일경우
+                    if (visited[map[i].Item1] == false)//탐색지점과 연결된 지점이 '탐색되지 않음'상태일경우
                     {
                         for (int j = 0; j < pointNum; j++)//nextlist 중복확인
                         {
@@ -297,10 +291,10 @@ public class nevigation
                         if (dist[map[i].Item2] > (dist[map[i].Item1] + map[i].Item3))//dist리스트에 기록된 거리와 비교했을때 새로운경로가 짧을경우
                         {
                             dist[map[i].Item2] = dist[map[i].Item1] + map[i].Item3;//dist 리스트 갱신
-                            path[map[i].Item2] = map[i].Item1;//path 리스트 갱신
+                            path[map[i].Item1] = map[i].Item2;//path 리스트 갱신
                         }
                     }
-                    if(i == 113)
+                    if (i == 113)
                     {
                         visited[map[i].Item1] = true;//현재 탐색지점 상태를 탐색함으로 바꿈
                         pCount += 1;//현재 탐색지점을 nextlist에 있는 다음 탐색지점으로 바꿈
@@ -320,36 +314,36 @@ public class nevigation
         Debug.Log("cal fin");
     }
 
-    void rec()//목적지까지의 최단경로를 기록한다.
+    public void rec(int str)//목적지까지의 최단경로를 기록한다.
     {
-        Debug.Log("rec start");
-        int[] c = new int[pointNum];
+        for (int i = 1; i < pointNum; i++) //route 초기화
+        {
+            route[i] = BigSize;
+        }
 
-        int p = end;
+        Debug.Log("rec start");
+        int p = str;
 
         int j = 0;
 
-        while (p != start)
+        while (p == end)
         {//목적지부터 출발점까지 경로 기록
-            c[j] = path[p];
-            //Debug.Log(path[p] + "->");
+            route[j] = path[p];
+            Debug.Log(path[p] + "->");
             j++;
             p = path[p];
         }
-        for (int i = 0; i < j; i++)//역순으로 정리함
-        {
-            ptoa[i] = c[j - i - 1];
-            Debug.Log(ptoa[i] + "->");
-        }
-        ptoa[j] = end;
-        Debug.Log(ptoa[j]);
+
+
     }
 
     public int show(int n)
     {
+
         int i;
-        i = ptoa[n];
+        i = route[n];
 
         return i;
     }
+
 }

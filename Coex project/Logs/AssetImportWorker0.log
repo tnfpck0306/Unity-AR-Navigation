@@ -1,6 +1,6 @@
 Using pre-set license
 Built from '2021.1/staging' branch; Version is '2021.1.5f1 (3737af19df53) revision 3618735'; Using compiler version '192528614'; Build Type 'Release'
-OS: 'Windows 10 Pro; OS build 19043.1348; Version 2009; 64bit' Language: 'ko' Physical Memory: 16319 MB
+OS: 'Windows 10 Home; OS build 19043.1706; Version 2009; 64bit' Language: 'ko' Physical Memory: 8035 MB
 BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
 
  COMMAND LINE ARGUMENTS:
@@ -11,550 +11,74 @@ C:\Program Files\Unity\Hub\Editor\2021.1.5f1\Editor\Unity.exe
 -name
 AssetImportWorker0
 -projectPath
-C:/Users/Jeon Tak/Desktop/Coex project (5)
+C:/Users/tnfpc/Coex project ver.2
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-62359
-Successfully changed project path to: C:/Users/Jeon Tak/Desktop/Coex project (5)
-C:/Users/Jeon Tak/Desktop/Coex project (5)
+50739
+Successfully changed project path to: C:/Users/tnfpc/Coex project ver.2
+C:/Users/tnfpc/Coex project ver.2
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 105.31 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 97.43 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2021.1.5f1 (3737af19df53)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.1.5f1/Editor/Data/Resources/UnitySubsystems
-[Subsystems] Discovering subsystems at path C:/Users/Jeon Tak/Desktop/Coex project (5)/Assets
+[Subsystems] Discovering subsystems at path C:/Users/tnfpc/Coex project ver.2/Assets
 GfxDevice: creating device client; threaded=0; jobified=0
 Direct3D:
     Version:  Direct3D 11.0 [level 11.1]
-    Renderer: NVIDIA GeForce GTX 1660 Ti (ID=0x2182)
+    Renderer: NVIDIA GeForce GTX 1660 Ti (ID=0x2191)
     Vendor:   NVIDIA
     VRAM:     5991 MB
-    Driver:   30.0.14.7168
+    Driver:   30.0.15.1123
 Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.1.5f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.1.5f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.1.5f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56896
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56752
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.1.5f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.003815 seconds.
+Registered in 0.008337 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 104.25 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 211.10 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  2.436 seconds
+- Completed reload, in  5.991 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.011197 seconds.
+Registered in 0.022972 seconds.
 Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image C:\Users\Jeon Tak\Desktop\Coex project (5)\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\Jeon Tak\Desktop\Coex project (5)\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\Jeon Tak\Desktop\Coex project (5)\Assets\Ambiens\ArchToolkit\ATExplore\Scripts\ActionSequenceSystem\xNode\xNodeEditor.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\tnfpc\Coex project ver.2\Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\tnfpc\Coex project ver.2\Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\tnfpc\Coex project ver.2\Assets\Ambiens\ArchToolkit\ATExplore\Scripts\ActionSequenceSystem\xNode\xNodeEditor.dll
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.89 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 1.03 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.306 seconds
+- Completed reload, in  1.448 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
-Refreshing native plugins compatible for Editor in 0.83 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3528 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 132.8 MB.
-System memory in use after: 133.0 MB.
-
-Unloading 39 unused Assets to reduce memory usage. Loaded Objects now: 3977.
-Total: 3.122000 ms (FindLiveObjects: 0.318900 ms CreateObjectMapping: 0.108800 ms MarkObjects: 2.573200 ms  DeleteObjects: 0.119800 ms)
-
-========================================================================
-Received Import Request.
-  path: Assets/nevigation.cs
-  artifactKey: Guid(e64c8aa96fa34ac4083e37689da0248e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/nevigation.cs using Guid(e64c8aa96fa34ac4083e37689da0248e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '273c453dec727dbc09e57dc706034462') in 0.034783 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 1.671710 seconds.
-  path: Assets/nevigation.cs
-  artifactKey: Guid(e64c8aa96fa34ac4083e37689da0248e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/nevigation.cs using Guid(e64c8aa96fa34ac4083e37689da0248e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bba21bad7a59ec21a2de76e7c705f9d5') in 0.004106 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 32.090093 seconds.
-  path: Assets/nevigation.cs
-  artifactKey: Guid(e64c8aa96fa34ac4083e37689da0248e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/nevigation.cs using Guid(e64c8aa96fa34ac4083e37689da0248e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2422c2c0f82db5bd8b6972da07f3e2d6') in 0.005053 seconds 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.009331 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image C:\Users\Jeon Tak\Desktop\Coex project (5)\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\Jeon Tak\Desktop\Coex project (5)\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\Jeon Tak\Desktop\Coex project (5)\Assets\Ambiens\ArchToolkit\ATExplore\Scripts\ActionSequenceSystem\xNode\xNodeEditor.dll
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.84 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-NullReferenceException: Object reference not set to an instance of an object
-  at ambiens.archtoolkit.atexplore.XNodeEditor.NodeEditorAssetModProcessor.OnReloadEditor () [0x00045] in <93547090bd264663999e49536baf027a>:0 
-
-Mono: successfully reloaded assembly
-- Completed reload, in  1.175 seconds
-Platform modules already initialized, skipping
-Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(524288) extendedPlatform(0)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.07 seconds
 Refreshing native plugins compatible for Editor in 0.88 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3510 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 132.2 MB.
-System memory in use after: 132.5 MB.
+Unloading 3698 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 144.1 MB.
+System memory in use after: 144.3 MB.
 
-Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 3981.
-Total: 2.698100 ms (FindLiveObjects: 0.354200 ms CreateObjectMapping: 0.107300 ms MarkObjects: 2.214300 ms  DeleteObjects: 0.020900 ms)
+Unloading 38 unused Assets to reduce memory usage. Loaded Objects now: 4161.
+Total: 3.394600 ms (FindLiveObjects: 0.341700 ms CreateObjectMapping: 0.189700 ms MarkObjects: 2.700300 ms  DeleteObjects: 0.161300 ms)
 
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.009900 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image C:\Users\Jeon Tak\Desktop\Coex project (5)\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\Jeon Tak\Desktop\Coex project (5)\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\Jeon Tak\Desktop\Coex project (5)\Assets\Ambiens\ArchToolkit\ATExplore\Scripts\ActionSequenceSystem\xNode\xNodeEditor.dll
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 1.08 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-NullReferenceException: Object reference not set to an instance of an object
-  at ambiens.archtoolkit.atexplore.XNodeEditor.NodeEditorAssetModProcessor.OnReloadEditor () [0x00045] in <93547090bd264663999e49536baf027a>:0 
-
-Mono: successfully reloaded assembly
-- Completed reload, in  7.532 seconds
-Platform modules already initialized, skipping
-Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(524288) extendedPlatform(0)
-Refreshing native plugins compatible for Editor in 0.85 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3510 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 132.3 MB.
-System memory in use after: 132.5 MB.
-
-Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 3985.
-Total: 3.599000 ms (FindLiveObjects: 0.382500 ms CreateObjectMapping: 0.115000 ms MarkObjects: 3.073100 ms  DeleteObjects: 0.027200 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.007923 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image C:\Users\Jeon Tak\Desktop\Coex project (5)\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\Jeon Tak\Desktop\Coex project (5)\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\Jeon Tak\Desktop\Coex project (5)\Assets\Ambiens\ArchToolkit\ATExplore\Scripts\ActionSequenceSystem\xNode\xNodeEditor.dll
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.87 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-NullReferenceException: Object reference not set to an instance of an object
-  at ambiens.archtoolkit.atexplore.XNodeEditor.NodeEditorAssetModProcessor.OnReloadEditor () [0x00045] in <93547090bd264663999e49536baf027a>:0 
-
-Mono: successfully reloaded assembly
-- Completed reload, in  1.173 seconds
-Platform modules already initialized, skipping
-Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(524288) extendedPlatform(0)
-Refreshing native plugins compatible for Editor in 0.85 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3510 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 132.3 MB.
-System memory in use after: 132.5 MB.
-
-Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 3989.
-Total: 3.906600 ms (FindLiveObjects: 0.419600 ms CreateObjectMapping: 0.297600 ms MarkObjects: 3.159900 ms  DeleteObjects: 0.027900 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.007642 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image C:\Users\Jeon Tak\Desktop\Coex project (5)\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\Jeon Tak\Desktop\Coex project (5)\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\Jeon Tak\Desktop\Coex project (5)\Assets\Ambiens\ArchToolkit\ATExplore\Scripts\ActionSequenceSystem\xNode\xNodeEditor.dll
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.96 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-NullReferenceException: Object reference not set to an instance of an object
-  at ambiens.archtoolkit.atexplore.XNodeEditor.NodeEditorAssetModProcessor.OnReloadEditor () [0x00045] in <93547090bd264663999e49536baf027a>:0 
-
-Mono: successfully reloaded assembly
-- Completed reload, in  1.148 seconds
-Platform modules already initialized, skipping
-Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(524288) extendedPlatform(0)
-Refreshing native plugins compatible for Editor in 0.91 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3510 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 132.3 MB.
-System memory in use after: 132.6 MB.
-
-Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 3993.
-Total: 2.677100 ms (FindLiveObjects: 0.317500 ms CreateObjectMapping: 0.106400 ms MarkObjects: 2.230500 ms  DeleteObjects: 0.021700 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
 ========================================================================
 Received Import Request.
-  Time since last request: 318.138369 seconds.
+  path: Assets/arrow.cs
+  artifactKey: Guid(053189b6d43f71448ab83f971562eb51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/arrow.cs using Guid(053189b6d43f71448ab83f971562eb51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd7dd51eec0a3322d9b9655baf02e7baa') in 0.047612 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 74.065921 seconds.
   path: Assets/nevigation.cs
   artifactKey: Guid(e64c8aa96fa34ac4083e37689da0248e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/nevigation.cs using Guid(e64c8aa96fa34ac4083e37689da0248e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eafd9af31bd10ca8514af78b9dfe56e3') in 0.006922 seconds 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.007934 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image C:\Users\Jeon Tak\Desktop\Coex project (5)\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\Jeon Tak\Desktop\Coex project (5)\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\Jeon Tak\Desktop\Coex project (5)\Assets\Ambiens\ArchToolkit\ATExplore\Scripts\ActionSequenceSystem\xNode\xNodeEditor.dll
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.87 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-NullReferenceException: Object reference not set to an instance of an object
-  at ambiens.archtoolkit.atexplore.XNodeEditor.NodeEditorAssetModProcessor.OnReloadEditor () [0x00045] in <93547090bd264663999e49536baf027a>:0 
-
-Mono: successfully reloaded assembly
-- Completed reload, in  1.142 seconds
-Platform modules already initialized, skipping
-Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(524288) extendedPlatform(0)
-Refreshing native plugins compatible for Editor in 0.85 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3510 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 132.4 MB.
-System memory in use after: 132.6 MB.
-
-Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 3997.
-Total: 2.689700 ms (FindLiveObjects: 0.329000 ms CreateObjectMapping: 0.107200 ms MarkObjects: 2.231900 ms  DeleteObjects: 0.020200 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
-========================================================================
-Received Import Request.
-  Time since last request: 176.486054 seconds.
-  path: Assets/nevigation.cs
-  artifactKey: Guid(e64c8aa96fa34ac4083e37689da0248e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/nevigation.cs using Guid(e64c8aa96fa34ac4083e37689da0248e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4443b3a2b03538c616f345acce1eaaee') in 0.007574 seconds 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.008863 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image C:\Users\Jeon Tak\Desktop\Coex project (5)\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\Jeon Tak\Desktop\Coex project (5)\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\Jeon Tak\Desktop\Coex project (5)\Assets\Ambiens\ArchToolkit\ATExplore\Scripts\ActionSequenceSystem\xNode\xNodeEditor.dll
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.94 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-NullReferenceException: Object reference not set to an instance of an object
-  at ambiens.archtoolkit.atexplore.XNodeEditor.NodeEditorAssetModProcessor.OnReloadEditor () [0x00045] in <93547090bd264663999e49536baf027a>:0 
-
-Mono: successfully reloaded assembly
-- Completed reload, in  1.168 seconds
-Platform modules already initialized, skipping
-Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(524288) extendedPlatform(0)
-Refreshing native plugins compatible for Editor in 0.84 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3510 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 132.4 MB.
-System memory in use after: 132.6 MB.
-
-Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 4001.
-Total: 3.009800 ms (FindLiveObjects: 0.345900 ms CreateObjectMapping: 0.111200 ms MarkObjects: 2.526700 ms  DeleteObjects: 0.024400 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
-========================================================================
-Received Prepare
-Refreshing native plugins compatible for Editor in 65.67 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 17 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 62.0 MB.
-System memory in use after: 62.2 MB.
-
-Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 4001.
-Total: 8.325200 ms (FindLiveObjects: 0.754400 ms CreateObjectMapping: 0.589700 ms MarkObjects: 6.957100 ms  DeleteObjects: 0.022700 ms)
-
-========================================================================
-Received Prepare
-Refreshing native plugins compatible for Editor in 6.85 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 17 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 62.0 MB.
-System memory in use after: 62.2 MB.
-
-Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 4001.
-Total: 3.015500 ms (FindLiveObjects: 0.370600 ms CreateObjectMapping: 0.107500 ms MarkObjects: 2.520100 ms  DeleteObjects: 0.016600 ms)
-
-========================================================================
-Received Prepare
-Refreshing native plugins compatible for Editor in 6.58 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 17 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 62.0 MB.
-System memory in use after: 62.2 MB.
-
-Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 4001.
-Total: 3.419600 ms (FindLiveObjects: 0.333400 ms CreateObjectMapping: 0.107000 ms MarkObjects: 2.959800 ms  DeleteObjects: 0.018500 ms)
-
-========================================================================
-Received Prepare
-Refreshing native plugins compatible for Editor in 7.09 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 17 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 62.0 MB.
-System memory in use after: 62.2 MB.
-
-Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 4001.
-Total: 3.360600 ms (FindLiveObjects: 0.430600 ms CreateObjectMapping: 0.112100 ms MarkObjects: 2.793600 ms  DeleteObjects: 0.023100 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.008574 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image C:\Users\Jeon Tak\Desktop\Coex project (5)\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\Jeon Tak\Desktop\Coex project (5)\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\Jeon Tak\Desktop\Coex project (5)\Assets\Ambiens\ArchToolkit\ATExplore\Scripts\ActionSequenceSystem\xNode\xNodeEditor.dll
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.88 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-NullReferenceException: Object reference not set to an instance of an object
-  at ambiens.archtoolkit.atexplore.XNodeEditor.NodeEditorAssetModProcessor.OnReloadEditor () [0x00045] in <93547090bd264663999e49536baf027a>:0 
-
-Mono: successfully reloaded assembly
-- Completed reload, in  1.231 seconds
-Platform modules already initialized, skipping
-Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(524288) extendedPlatform(0)
-Refreshing native plugins compatible for Editor in 0.92 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3510 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 132.4 MB.
-System memory in use after: 132.6 MB.
-
-Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 4004.
-Total: 2.997900 ms (FindLiveObjects: 0.359500 ms CreateObjectMapping: 0.104000 ms MarkObjects: 2.484400 ms  DeleteObjects: 0.048100 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
-========================================================================
-Received Prepare
-Refreshing native plugins compatible for Editor in 6.51 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 18 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 62.2 MB.
-System memory in use after: 62.5 MB.
-
-Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 4005.
-Total: 2.893900 ms (FindLiveObjects: 0.390700 ms CreateObjectMapping: 0.113300 ms MarkObjects: 2.375900 ms  DeleteObjects: 0.013300 ms)
-
-========================================================================
-Received Prepare
-Refreshing native plugins compatible for Editor in 6.39 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 17 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 62.1 MB.
-System memory in use after: 62.4 MB.
-
-Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 4005.
-Total: 3.995900 ms (FindLiveObjects: 0.603900 ms CreateObjectMapping: 0.114500 ms MarkObjects: 3.256400 ms  DeleteObjects: 0.019600 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.009044 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image C:\Users\Jeon Tak\Desktop\Coex project (5)\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\Jeon Tak\Desktop\Coex project (5)\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\Jeon Tak\Desktop\Coex project (5)\Assets\Ambiens\ArchToolkit\ATExplore\Scripts\ActionSequenceSystem\xNode\xNodeEditor.dll
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 1.16 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-NullReferenceException: Object reference not set to an instance of an object
-  at ambiens.archtoolkit.atexplore.XNodeEditor.NodeEditorAssetModProcessor.OnReloadEditor () [0x00045] in <93547090bd264663999e49536baf027a>:0 
-
-Mono: successfully reloaded assembly
-- Completed reload, in  1.280 seconds
-Platform modules already initialized, skipping
-Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(524288) extendedPlatform(0)
-Refreshing native plugins compatible for Editor in 0.91 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3510 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 132.4 MB.
-System memory in use after: 132.6 MB.
-
-Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 4009.
-Total: 3.660200 ms (FindLiveObjects: 0.372600 ms CreateObjectMapping: 0.261100 ms MarkObjects: 2.993700 ms  DeleteObjects: 0.031600 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
-========================================================================
-Received Import Request.
-  Time since last request: 1261.683412 seconds.
-  path: Assets/arrow.cs
-  artifactKey: Guid(053189b6d43f71448ab83f971562eb51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/arrow.cs using Guid(053189b6d43f71448ab83f971562eb51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f0cb6baba706d2b01570e4fc4fe41f1') in 0.020218 seconds 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.010248 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image C:\Users\Jeon Tak\Desktop\Coex project (5)\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\Jeon Tak\Desktop\Coex project (5)\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\Jeon Tak\Desktop\Coex project (5)\Assets\Ambiens\ArchToolkit\ATExplore\Scripts\ActionSequenceSystem\xNode\xNodeEditor.dll
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 1.32 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-NullReferenceException: Object reference not set to an instance of an object
-  at ambiens.archtoolkit.atexplore.XNodeEditor.NodeEditorAssetModProcessor.OnReloadEditor () [0x00045] in <93547090bd264663999e49536baf027a>:0 
-
-Mono: successfully reloaded assembly
-- Completed reload, in  1.311 seconds
-Platform modules already initialized, skipping
-Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(524288) extendedPlatform(0)
-Refreshing native plugins compatible for Editor in 0.93 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3510 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 132.4 MB.
-System memory in use after: 132.6 MB.
-
-Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 4012.
-Total: 3.308700 ms (FindLiveObjects: 0.326200 ms CreateObjectMapping: 0.107800 ms MarkObjects: 2.828700 ms  DeleteObjects: 0.045000 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
-========================================================================
-Received Import Request.
-  Time since last request: 29.338901 seconds.
-  path: Assets/arrow.cs
-  artifactKey: Guid(053189b6d43f71448ab83f971562eb51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/arrow.cs using Guid(053189b6d43f71448ab83f971562eb51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a97c7a5a43305625e0d87aec67f8e7c') in 0.007126 seconds 
-========================================================================
-Received Prepare
-Refreshing native plugins compatible for Editor in 6.06 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 18 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 62.3 MB.
-System memory in use after: 62.5 MB.
-
-Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 4013.
-Total: 2.927900 ms (FindLiveObjects: 0.324100 ms CreateObjectMapping: 0.110300 ms MarkObjects: 2.470500 ms  DeleteObjects: 0.022100 ms)
-
-========================================================================
-Received Prepare
-Refreshing native plugins compatible for Editor in 7.44 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 17 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 62.2 MB.
-System memory in use after: 62.4 MB.
-
-Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 4013.
-Total: 2.699700 ms (FindLiveObjects: 0.354000 ms CreateObjectMapping: 0.108000 ms MarkObjects: 2.223200 ms  DeleteObjects: 0.013900 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.011274 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image C:\Users\Jeon Tak\Desktop\Coex project (5)\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\Jeon Tak\Desktop\Coex project (5)\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\Jeon Tak\Desktop\Coex project (5)\Assets\Ambiens\ArchToolkit\ATExplore\Scripts\ActionSequenceSystem\xNode\xNodeEditor.dll
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.87 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-NullReferenceException: Object reference not set to an instance of an object
-  at ambiens.archtoolkit.atexplore.XNodeEditor.NodeEditorAssetModProcessor.OnReloadEditor () [0x00045] in <93547090bd264663999e49536baf027a>:0 
-
-Mono: successfully reloaded assembly
-- Completed reload, in  1.302 seconds
-Platform modules already initialized, skipping
-Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(524288) extendedPlatform(0)
-Refreshing native plugins compatible for Editor in 0.94 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3510 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 132.4 MB.
-System memory in use after: 132.7 MB.
-
-Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 4017.
-Total: 2.752400 ms (FindLiveObjects: 0.332900 ms CreateObjectMapping: 0.122100 ms MarkObjects: 2.274900 ms  DeleteObjects: 0.021400 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
-========================================================================
-Received Import Request.
-  Time since last request: 347.913800 seconds.
-  path: Assets/arrow.cs
-  artifactKey: Guid(053189b6d43f71448ab83f971562eb51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/arrow.cs using Guid(053189b6d43f71448ab83f971562eb51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44f2303d2277908acd8f2828eb41948e') in 0.010723 seconds 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.023531 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image C:\Users\Jeon Tak\Desktop\Coex project (5)\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\Jeon Tak\Desktop\Coex project (5)\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\Jeon Tak\Desktop\Coex project (5)\Assets\Ambiens\ArchToolkit\ATExplore\Scripts\ActionSequenceSystem\xNode\xNodeEditor.dll
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.90 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-NullReferenceException: Object reference not set to an instance of an object
-  at ambiens.archtoolkit.atexplore.XNodeEditor.NodeEditorAssetModProcessor.OnReloadEditor () [0x00045] in <93547090bd264663999e49536baf027a>:0 
-
-Mono: successfully reloaded assembly
-- Completed reload, in  1.335 seconds
-Platform modules already initialized, skipping
-Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(524288) extendedPlatform(0)
-Refreshing native plugins compatible for Editor in 1.16 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3510 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 132.4 MB.
-System memory in use after: 132.7 MB.
-
-Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 4021.
-Total: 2.738300 ms (FindLiveObjects: 0.324300 ms CreateObjectMapping: 0.128100 ms MarkObjects: 2.263200 ms  DeleteObjects: 0.021600 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
-========================================================================
-Received Prepare
-Refreshing native plugins compatible for Editor in 7.14 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 17 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 62.0 MB.
-System memory in use after: 62.3 MB.
-
-Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 4021.
-Total: 2.725900 ms (FindLiveObjects: 0.331900 ms CreateObjectMapping: 0.110500 ms MarkObjects: 2.263100 ms  DeleteObjects: 0.019500 ms)
-
-========================================================================
-Received Prepare
-Refreshing native plugins compatible for Editor in 6.43 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 17 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 62.0 MB.
-System memory in use after: 62.3 MB.
-
-Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 4021.
-Total: 2.897200 ms (FindLiveObjects: 0.336400 ms CreateObjectMapping: 0.105600 ms MarkObjects: 2.440600 ms  DeleteObjects: 0.013700 ms)
-
-========================================================================
-Received Prepare
-Refreshing native plugins compatible for Editor in 6.30 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 17 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 62.0 MB.
-System memory in use after: 62.3 MB.
-
-Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 4021.
-Total: 3.108500 ms (FindLiveObjects: 0.489500 ms CreateObjectMapping: 0.235100 ms MarkObjects: 2.360400 ms  DeleteObjects: 0.022500 ms)
-
+Start importing Assets/nevigation.cs using Guid(e64c8aa96fa34ac4083e37689da0248e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a47b987cfc98e8dd8700fa8f8cb36f0e') in 0.011272 seconds 
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file

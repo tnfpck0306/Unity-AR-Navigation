@@ -207,6 +207,7 @@ MonoBehaviour:
   m_Material: {fileID: 0}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
@@ -333,6 +334,7 @@ MonoBehaviour:
   m_FallbackScreenDPI: 96
   m_DefaultSpriteDPI: 96
   m_DynamicPixelsPerUnit: 1
+  m_PresetInfoIsWorld: 0
 --- !u!1 &5081003577804960685
 GameObject:
   m_ObjectHideFlags: 0
@@ -407,8 +409,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4dea56a9eaadd1c439095de4f9a371cb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_SerializedLibrary: {fileID: 11400000, guid: f719514e254404a48a8b14af902a8ba3,
-    type: 2}
+  m_SerializedLibrary: {fileID: 11400000, guid: f719514e254404a48a8b14af902a8ba3, type: 2}
   m_MaxNumberOfMovingImages: 2
   m_TrackedImagePrefab: {fileID: 0}
 --- !u!114 &8717590917747169519
@@ -423,8 +424,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e1760703bbd54c04488a8d10600262ab, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_PlanePrefab: {fileID: 4776765576899091622, guid: faa11aaaa739a854995ea27fbfbf6107,
-    type: 3}
+  m_PlanePrefab: {fileID: 4776765576899091622, guid: faa11aaaa739a854995ea27fbfbf6107, type: 3}
   m_DetectionMode: -1
 --- !u!114 &6305255486171564739
 MonoBehaviour:
@@ -438,8 +438,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 728ad7fae8e460a4ba41265c7308d757, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_AnchorPrefab: {fileID: 2343698522109532637, guid: b20a5f3dddfdcc34c95fb0568e8c843c,
-    type: 3}
+  m_AnchorPrefab: {fileID: 2343698522109532637, guid: b20a5f3dddfdcc34c95fb0568e8c843c, type: 3}
 --- !u!1 &9048696649739669699
 GameObject:
   m_ObjectHideFlags: 0
@@ -491,7 +490,7 @@ MonoBehaviour:
   raycaster: {fileID: 8938854740697314315}
   walkableLayers:
     serializedVersion: 2
-    m_Bits: 4294967295
+    m_Bits: 4294967231
   Head: {fileID: 9049605087439784143}
   RunSpeed: 0
   RunFaster: 0
@@ -586,7 +585,7 @@ Camera:
   m_Depth: 0
   m_CullingMask:
     serializedVersion: 2
-    m_Bits: 4294967295
+    m_Bits: 4294967231
   m_RenderingPath: -1
   m_TargetTexture: {fileID: 0}
   m_TargetDisplay: 0
