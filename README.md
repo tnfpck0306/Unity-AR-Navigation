@@ -1,8 +1,8 @@
 # Unity-Indoor_AR_Navigation
 It's Indoor AR Navigation made with Unity.
 
--*Youtube presentation video Link : https://www.youtube.com/watch?v=FAvtQBpd92M*   
--*Youtube Demo video Link : https://youtu.be/loPQTEZ4DV0*
+-*Presentation video(Youtube) : https://www.youtube.com/watch?v=FAvtQBpd92M*   
+-*Demo video(Youtube) : https://youtu.be/loPQTEZ4DV0*
 
 <img width = 28% src=https://user-images.githubusercontent.com/76057758/167531642-8973d3b5-0b47-42cd-91b4-135f9f42614c.gif> <img width = 28% src=https://user-images.githubusercontent.com/76057758/167301658-aaa9c6f0-b034-4742-ac03-2b12700e1014.gif>
 <img width = 28% src=https://user-images.githubusercontent.com/76057758/167550653-a379fefa-5741-45c4-a88b-62e81d760265.gif>
