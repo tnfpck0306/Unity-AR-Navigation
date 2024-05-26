@@ -1,6 +1,6 @@
 Using pre-set license
 Built from '2021.1/staging' branch; Version is '2021.1.5f1 (3737af19df53) revision 3618735'; Using compiler version '192528614'; Build Type 'Release'
-OS: 'Windows 10 Home; OS build 19043.1706; Version 2009; 64bit' Language: 'ko' Physical Memory: 8035 MB
+OS: 'Windows 10 Home; OS build 19045.4412; Version 2009; 64bit' Language: 'ko' Physical Memory: 8035 MB
 BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
 
  COMMAND LINE ARGUMENTS:
@@ -11,74 +11,304 @@ C:\Program Files\Unity\Hub\Editor\2021.1.5f1\Editor\Unity.exe
 -name
 AssetImportWorker0
 -projectPath
-C:/Users/tnfpc/Coex project ver.2
+C:/Users/tnfpc/Unity_project_git/Unity-AR-Navigation/Coex project
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-50739
-Successfully changed project path to: C:/Users/tnfpc/Coex project ver.2
-C:/Users/tnfpc/Coex project ver.2
+64683
+Successfully changed project path to: C:/Users/tnfpc/Unity_project_git/Unity-AR-Navigation/Coex project
+C:/Users/tnfpc/Unity_project_git/Unity-AR-Navigation/Coex project
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 97.43 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 89.37 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2021.1.5f1 (3737af19df53)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.1.5f1/Editor/Data/Resources/UnitySubsystems
-[Subsystems] Discovering subsystems at path C:/Users/tnfpc/Coex project ver.2/Assets
+[Subsystems] Discovering subsystems at path C:/Users/tnfpc/Unity_project_git/Unity-AR-Navigation/Coex project/Assets
 GfxDevice: creating device client; threaded=0; jobified=0
 Direct3D:
     Version:  Direct3D 11.0 [level 11.1]
     Renderer: NVIDIA GeForce GTX 1660 Ti (ID=0x2191)
     Vendor:   NVIDIA
-    VRAM:     5991 MB
-    Driver:   30.0.15.1123
+    VRAM:     5966 MB
+    Driver:   31.0.15.5123
 Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.1.5f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.1.5f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.1.5f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56752
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56184
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.1.5f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.008337 seconds.
+Registered in 0.001916 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 211.10 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 87.81 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  5.991 seconds
+- Completed reload, in  1.650 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.022972 seconds.
+Registered in 0.005654 seconds.
 Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image C:\Users\tnfpc\Coex project ver.2\Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\tnfpc\Coex project ver.2\Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\tnfpc\Coex project ver.2\Assets\Ambiens\ArchToolkit\ATExplore\Scripts\ActionSequenceSystem\xNode\xNodeEditor.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\tnfpc\Unity_project_git\Unity-AR-Navigation\Coex project\Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\tnfpc\Unity_project_git\Unity-AR-Navigation\Coex project\Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\tnfpc\Unity_project_git\Unity-AR-Navigation\Coex project\Assets\Ambiens\ArchToolkit\ATExplore\Scripts\ActionSequenceSystem\xNode\xNodeEditor.dll
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 1.03 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 0.68 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.448 seconds
+- Completed reload, in  1.222 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.07 seconds
-Refreshing native plugins compatible for Editor in 0.88 ms, found 3 plugins.
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Refreshing native plugins compatible for Editor in 0.66 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3698 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 144.1 MB.
-System memory in use after: 144.3 MB.
+Unloading 3697 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 136.2 MB.
+System memory in use after: 136.4 MB.
 
-Unloading 38 unused Assets to reduce memory usage. Loaded Objects now: 4161.
-Total: 3.394600 ms (FindLiveObjects: 0.341700 ms CreateObjectMapping: 0.189700 ms MarkObjects: 2.700300 ms  DeleteObjects: 0.161300 ms)
+Unloading 38 unused Assets to reduce memory usage. Loaded Objects now: 4143.
+Total: 3.044300 ms (FindLiveObjects: 0.272400 ms CreateObjectMapping: 0.131800 ms MarkObjects: 2.541700 ms  DeleteObjects: 0.097100 ms)
 
 ========================================================================
 Received Import Request.
+  path: Assets/Ambiens/ArchToolkit/ATExplore/Modules/AR/Samples/AmbiensOfficeRoom/AmbiensOfficeSceneAR_settings.asset
+  artifactKey: Guid(d47354200e426d64c8703159461742fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ambiens/ArchToolkit/ATExplore/Modules/AR/Samples/AmbiensOfficeRoom/AmbiensOfficeSceneAR_settings.asset using Guid(d47354200e426d64c8703159461742fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3609079b4f654c1907947825a2f95bee') in 0.073583 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000249 seconds.
+  path: Assets/Ambiens/ArchToolkit/ATExplore/Samples/KitchenDemoScene/atv_KitchenDemoScene.asset
+  artifactKey: Guid(f1f45cc49ae4f644da6c281db06e877a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ambiens/ArchToolkit/ATExplore/Samples/KitchenDemoScene/atv_KitchenDemoScene.asset using Guid(f1f45cc49ae4f644da6c281db06e877a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e75cfc8728485b6b98f3d74d674ba513') in 0.008036 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000346 seconds.
+  path: Assets/Ambiens/ArchToolkit/ATExplore/Samples/KitchenDemoScene/KitchenDemoScene.asset
+  artifactKey: Guid(f41c6fc3fb320ca4bbb308c06898529a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ambiens/ArchToolkit/ATExplore/Samples/KitchenDemoScene/KitchenDemoScene.asset using Guid(f41c6fc3fb320ca4bbb308c06898529a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '55c685131704df28aedd6ed20dfa88d1') in 0.010853 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000332 seconds.
+  path: Assets/XR
+  artifactKey: Guid(2dfee1cabdb681147b903a80bed5837a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/XR using Guid(2dfee1cabdb681147b903a80bed5837a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f5ccac92960635c2683987a26acf1e7') in 0.011014 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000368 seconds.
+  path: Assets/Ambiens/ArchToolkit/ATExplore/Modules/BuildSystem/Templates/AndroidVRTouchScreen.asset
+  artifactKey: Guid(9a8fd69479c139f4f95845207c266e88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ambiens/ArchToolkit/ATExplore/Modules/BuildSystem/Templates/AndroidVRTouchScreen.asset using Guid(9a8fd69479c139f4f95845207c266e88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '41fe5c171d969d0c53a91fdadc7abfb6') in 0.014502 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000292 seconds.
+  path: Assets/Ambiens/ArchToolkit/ATExplore/Icons/Keyboard & Mouse/Light/Keyboard_White_Esc.png
+  artifactKey: Guid(d6d2fba2fcb1d91439fe58d8c410821f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ambiens/ArchToolkit/ATExplore/Icons/Keyboard & Mouse/Light/Keyboard_White_Esc.png using Guid(d6d2fba2fcb1d91439fe58d8c410821f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b03aade4f75c05b96a1e88e4cb7b077e') in 0.099924 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000235 seconds.
+  path: Assets/Ambiens/ArchToolkit/ATExplore/Modules/BuildSystem/Templates/iOSVRTouchScreen.asset
+  artifactKey: Guid(55f276a9f72d72d43a5d77c06471bd9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ambiens/ArchToolkit/ATExplore/Modules/BuildSystem/Templates/iOSVRTouchScreen.asset using Guid(55f276a9f72d72d43a5d77c06471bd9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8510410e22586b008def2206278e4abd') in 0.008522 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000309 seconds.
+  path: Assets/Ambiens/ArchToolkit/ATExplore/Modules/BuildSystem/Templates/AndroidTouchScreen.asset
+  artifactKey: Guid(282d741b55bb21040abce0d04e31e106) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ambiens/ArchToolkit/ATExplore/Modules/BuildSystem/Templates/AndroidTouchScreen.asset using Guid(282d741b55bb21040abce0d04e31e106) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2725def6c8434ddd4514a4a6a72e2112') in 0.012838 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000352 seconds.
+  path: Assets/Ambiens/ArchToolkit/ATExplore/Modules/BuildSystem/Templates/iOSTouchScreen.asset
+  artifactKey: Guid(53e26999886ccef4e99ed2d22ac9d193) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ambiens/ArchToolkit/ATExplore/Modules/BuildSystem/Templates/iOSTouchScreen.asset using Guid(53e26999886ccef4e99ed2d22ac9d193) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e65bbf1844200fc0c58267ded489f04') in 0.013912 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 36.495038 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd70d4b9d2b35bbfdca3bbeb0c2d5a768') in 0.010674 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 199.173916 seconds.
   path: Assets/arrow.cs
   artifactKey: Guid(053189b6d43f71448ab83f971562eb51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/arrow.cs using Guid(053189b6d43f71448ab83f971562eb51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd7dd51eec0a3322d9b9655baf02e7baa') in 0.047612 seconds 
+Start importing Assets/arrow.cs using Guid(053189b6d43f71448ab83f971562eb51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd7dd51eec0a3322d9b9655baf02e7baa') in 0.029579 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 74.065921 seconds.
+  Time since last request: 147.652494 seconds.
+  path: Assets/arrow.cs
+  artifactKey: Guid(053189b6d43f71448ab83f971562eb51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/arrow.cs using Guid(053189b6d43f71448ab83f971562eb51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f252953d7a2ff15610b2740d3e81117c') in 0.005071 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007029 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\tnfpc\Unity_project_git\Unity-AR-Navigation\Coex project\Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\tnfpc\Unity_project_git\Unity-AR-Navigation\Coex project\Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\tnfpc\Unity_project_git\Unity-AR-Navigation\Coex project\Assets\Ambiens\ArchToolkit\ATExplore\Scripts\ActionSequenceSystem\xNode\xNodeEditor.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.72 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+NullReferenceException: Object reference not set to an instance of an object
+  at ambiens.archtoolkit.atexplore.XNodeEditor.NodeEditorAssetModProcessor.OnReloadEditor () [0x00045] in <93547090bd264663999e49536baf027a>:0 
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.127 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.77 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3678 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 140.8 MB.
+System memory in use after: 141.0 MB.
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 4170.
+Total: 3.751400 ms (FindLiveObjects: 0.307700 ms CreateObjectMapping: 0.187900 ms MarkObjects: 3.005300 ms  DeleteObjects: 0.249000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 37.723435 seconds.
+  path: Assets/lr_Testing.cs
+  artifactKey: Guid(a0a9aabaa885f3f488066a91b06fa666) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/lr_Testing.cs using Guid(a0a9aabaa885f3f488066a91b06fa666) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '040951f2a2c879f9fbbdaa8445d70014') in 0.010473 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 13.528848 seconds.
+  path: Assets/lr_LineController.cs
+  artifactKey: Guid(f02ae555f4da1ef499509fea7d416c9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/lr_LineController.cs using Guid(f02ae555f4da1ef499509fea7d416c9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d2ad6530284eba8920c86e5fc5d6edc') in 0.014877 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.539290 seconds.
+  path: Assets/lookAtObject.cs
+  artifactKey: Guid(a39c5bebb4362bd41bd74bb7d154548d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/lookAtObject.cs using Guid(a39c5bebb4362bd41bd74bb7d154548d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a5eb447b7021fcb16c32dc209486bb4') in 0.012014 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.085723 seconds.
   path: Assets/nevigation.cs
   artifactKey: Guid(e64c8aa96fa34ac4083e37689da0248e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/nevigation.cs using Guid(e64c8aa96fa34ac4083e37689da0248e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a47b987cfc98e8dd8700fa8f8cb36f0e') in 0.011272 seconds 
+Start importing Assets/nevigation.cs using Guid(e64c8aa96fa34ac4083e37689da0248e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a47b987cfc98e8dd8700fa8f8cb36f0e') in 0.011211 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.502410 seconds.
+  path: Assets/checkName.cs
+  artifactKey: Guid(acf1825d77d932245b21a9b0c9eba9b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/checkName.cs using Guid(acf1825d77d932245b21a9b0c9eba9b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '480f8446af18c7d62c2419ff76de075b') in 0.008634 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 14.736718 seconds.
+  path: Assets/NewBehaviourScript.cs
+  artifactKey: Guid(a5fd093ec2c93214e8d69c2da445c112) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NewBehaviourScript.cs using Guid(a5fd093ec2c93214e8d69c2da445c112) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a41d8c8a871732cfe8d23c241b9e380') in 0.010107 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007872 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\tnfpc\Unity_project_git\Unity-AR-Navigation\Coex project\Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\tnfpc\Unity_project_git\Unity-AR-Navigation\Coex project\Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\tnfpc\Unity_project_git\Unity-AR-Navigation\Coex project\Assets\Ambiens\ArchToolkit\ATExplore\Scripts\ActionSequenceSystem\xNode\xNodeEditor.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.77 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+NullReferenceException: Object reference not set to an instance of an object
+  at ambiens.archtoolkit.atexplore.XNodeEditor.NodeEditorAssetModProcessor.OnReloadEditor () [0x00045] in <93547090bd264663999e49536baf027a>:0 
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.031 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.66 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3678 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 140.8 MB.
+System memory in use after: 141.1 MB.
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 4175.
+Total: 2.506000 ms (FindLiveObjects: 0.356200 ms CreateObjectMapping: 0.147700 ms MarkObjects: 1.927700 ms  DeleteObjects: 0.073300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005205 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\tnfpc\Unity_project_git\Unity-AR-Navigation\Coex project\Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\tnfpc\Unity_project_git\Unity-AR-Navigation\Coex project\Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\tnfpc\Unity_project_git\Unity-AR-Navigation\Coex project\Assets\Ambiens\ArchToolkit\ATExplore\Scripts\ActionSequenceSystem\xNode\xNodeEditor.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.73 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+NullReferenceException: Object reference not set to an instance of an object
+  at ambiens.archtoolkit.atexplore.XNodeEditor.NodeEditorAssetModProcessor.OnReloadEditor () [0x00045] in <93547090bd264663999e49536baf027a>:0 
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.049 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.65 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3677 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 140.8 MB.
+System memory in use after: 141.1 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 4178.
+Total: 2.455600 ms (FindLiveObjects: 0.288800 ms CreateObjectMapping: 0.141400 ms MarkObjects: 1.976000 ms  DeleteObjects: 0.048400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 31.613700 seconds.
+  path: Assets/Scripts
+  artifactKey: Guid(a93699cfe8e2ae94482351e32f81255e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts using Guid(a93699cfe8e2ae94482351e32f81255e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '93e0a7854b6180883d41454e21e16256') in 0.012418 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006050 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\tnfpc\Unity_project_git\Unity-AR-Navigation\Coex project\Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\tnfpc\Unity_project_git\Unity-AR-Navigation\Coex project\Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\tnfpc\Unity_project_git\Unity-AR-Navigation\Coex project\Assets\Ambiens\ArchToolkit\ATExplore\Scripts\ActionSequenceSystem\xNode\xNodeEditor.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.66 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+NullReferenceException: Object reference not set to an instance of an object
+  at ambiens.archtoolkit.atexplore.XNodeEditor.NodeEditorAssetModProcessor.OnReloadEditor () [0x00045] in <93547090bd264663999e49536baf027a>:0 
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.029 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.64 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3677 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 140.9 MB.
+System memory in use after: 141.1 MB.
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 4182.
+Total: 2.464700 ms (FindLiveObjects: 0.280900 ms CreateObjectMapping: 0.135400 ms MarkObjects: 2.007300 ms  DeleteObjects: 0.040300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 285.437416 seconds.
+  path: Assets/Models
+  artifactKey: Guid(e72925ef2902d014b80115334d1aac19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models using Guid(e72925ef2902d014b80115334d1aac19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0fb120024fe58a394f6eb05edcf6ebc6') in 0.019418 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 56.972240 seconds.
+  path: Assets/Prefab
+  artifactKey: Guid(167f8646e7bc9174d9caaf48123e59c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab using Guid(167f8646e7bc9174d9caaf48123e59c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a75519c7bf62027c555609de00310d00') in 0.010881 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 11.391034 seconds.
+  path: Assets/Prefabs
+  artifactKey: Guid(167f8646e7bc9174d9caaf48123e59c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs using Guid(167f8646e7bc9174d9caaf48123e59c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd764c218e5839bc663a0f4b0939afc32') in 0.013130 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 7.723490 seconds.
+  path: Assets/Prefabs/arrow.prefab
+  artifactKey: Guid(22f0a8ce1508dd742a5a59c39bea1cee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/arrow.prefab using Guid(22f0a8ce1508dd742a5a59c39bea1cee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c4f059c0e23532f94ec35e07abe3ce1') in 0.122857 seconds 
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file

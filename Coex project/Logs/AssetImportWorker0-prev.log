@@ -1,6 +1,6 @@
 Using pre-set license
 Built from '2021.1/staging' branch; Version is '2021.1.5f1 (3737af19df53) revision 3618735'; Using compiler version '192528614'; Build Type 'Release'
-OS: 'Windows 10 Home; OS build 19043.1645; Version 2009; 64bit' Language: 'ko' Physical Memory: 8035 MB
+OS: 'Windows 10 Home; OS build 19045.4412; Version 2009; 64bit' Language: 'ko' Physical Memory: 8035 MB
 BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
 
  COMMAND LINE ARGUMENTS:
@@ -11,85 +11,1064 @@ C:\Program Files\Unity\Hub\Editor\2021.1.5f1\Editor\Unity.exe
 -name
 AssetImportWorker0
 -projectPath
-C:/Users/tnfpc/Coex project ver.2
+C:/Users/tnfpc/Unity_project_git/Unity-AR-Navigation/Coex project
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-59967
-Successfully changed project path to: C:/Users/tnfpc/Coex project ver.2
-C:/Users/tnfpc/Coex project ver.2
+64372
+Successfully changed project path to: C:/Users/tnfpc/Unity_project_git/Unity-AR-Navigation/Coex project
+C:/Users/tnfpc/Unity_project_git/Unity-AR-Navigation/Coex project
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 106.30 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 100.08 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2021.1.5f1 (3737af19df53)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.1.5f1/Editor/Data/Resources/UnitySubsystems
-[Subsystems] Discovering subsystems at path C:/Users/tnfpc/Coex project ver.2/Assets
+[Subsystems] Discovering subsystems at path C:/Users/tnfpc/Unity_project_git/Unity-AR-Navigation/Coex project/Assets
 GfxDevice: creating device client; threaded=0; jobified=0
 Direct3D:
     Version:  Direct3D 11.0 [level 11.1]
     Renderer: NVIDIA GeForce GTX 1660 Ti (ID=0x2191)
     Vendor:   NVIDIA
-    VRAM:     5991 MB
-    Driver:   30.0.15.1123
+    VRAM:     5966 MB
+    Driver:   31.0.15.5123
 Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.1.5f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.1.5f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.1.5f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56384
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56940
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.1.5f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.001870 seconds.
+Registered in 0.003811 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 96.45 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 88.14 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  6.218 seconds
+- Completed reload, in  5.158 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.005660 seconds.
+Registered in 0.013797 seconds.
 Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image C:\Users\tnfpc\Coex project ver.2\Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\tnfpc\Coex project ver.2\Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\tnfpc\Coex project ver.2\Assets\Ambiens\ArchToolkit\ATExplore\Scripts\ActionSequenceSystem\xNode\xNodeEditor.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\tnfpc\Unity_project_git\Unity-AR-Navigation\Coex project\Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\tnfpc\Unity_project_git\Unity-AR-Navigation\Coex project\Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\tnfpc\Unity_project_git\Unity-AR-Navigation\Coex project\Assets\Ambiens\ArchToolkit\ATExplore\Scripts\ActionSequenceSystem\xNode\xNodeEditor.dll
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 1.05 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 0.76 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.305 seconds
+- Completed reload, in  1.290 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
 Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
-Refreshing native plugins compatible for Editor in 0.64 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 0.68 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3698 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 144.0 MB.
-System memory in use after: 144.2 MB.
+Unloading 3697 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 136.1 MB.
+System memory in use after: 136.3 MB.
 
-Unloading 37 unused Assets to reduce memory usage. Loaded Objects now: 4162.
-Total: 2.499700 ms (FindLiveObjects: 0.294600 ms CreateObjectMapping: 0.149200 ms MarkObjects: 1.955900 ms  DeleteObjects: 0.098900 ms)
+Unloading 38 unused Assets to reduce memory usage. Loaded Objects now: 4143.
+Total: 4.313600 ms (FindLiveObjects: 0.304000 ms CreateObjectMapping: 0.148800 ms MarkObjects: 3.732600 ms  DeleteObjects: 0.126600 ms)
 
 ========================================================================
-Received Prepare
-Refreshing native plugins compatible for Editor in 4.24 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 15 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 70.0 MB.
-System memory in use after: 70.2 MB.
-
-Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 4162.
-Total: 2.318100 ms (FindLiveObjects: 0.273100 ms CreateObjectMapping: 0.217900 ms MarkObjects: 1.813400 ms  DeleteObjects: 0.012500 ms)
-
+Received Import Request.
+  path: Assets/코엑스_스타필드_지하1층_지도.jpg
+  artifactKey: Guid(e05c56716e460604a98d68d7e0c99017) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/코엑스_스타필드_지하1층_지도.jpg using Guid(e05c56716e460604a98d68d7e0c99017) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47a0002c5c83e99915d9cc5cce673bcf') in 0.077924 seconds 
 ========================================================================
-Received Prepare
-Refreshing native plugins compatible for Editor in 4.09 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 15 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 70.0 MB.
-System memory in use after: 70.2 MB.
-
-Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 4162.
-Total: 3.533300 ms (FindLiveObjects: 0.323300 ms CreateObjectMapping: 0.173800 ms MarkObjects: 3.010900 ms  DeleteObjects: 0.024200 ms)
-
+Received Import Request.
+  Time since last request: 0.000213 seconds.
+  path: Assets/arrow.fbx
+  artifactKey: Guid(83b0b147d1e83fc48ac197bdfe1a8047) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/arrow.fbx using Guid(83b0b147d1e83fc48ac197bdfe1a8047) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '261144dbdbaaa19438d2efed3773265f') in 0.326263 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000300 seconds.
+  path: Assets/COEX B1f.obj
+  artifactKey: Guid(e35833e71bc0f954b9fe414ef68791c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/COEX B1f.obj using Guid(e35833e71bc0f954b9fe414ef68791c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a6a5be807be28dff8460e57f311b2704') in 0.056192 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000291 seconds.
+  path: Assets/MiniMapRen.renderTexture
+  artifactKey: Guid(f68abf179c069224581aad6621569333) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MiniMapRen.renderTexture using Guid(f68abf179c069224581aad6621569333) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8232522280577162a337112b45762f0e') in 0.030283 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000354 seconds.
+  path: Assets/스타필드코엑스몰_플로어가이드_B1.jpg
+  artifactKey: Guid(6edfa34fd9d6fb142bcef6e6a642fef0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/스타필드코엑스몰_플로어가이드_B1.jpg using Guid(6edfa34fd9d6fb142bcef6e6a642fef0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6da8a8e0608ce5eaab7cdad93a1899e3') in 0.023325 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000348 seconds.
+  path: Assets/Action Sequence.asset
+  artifactKey: Guid(f385a4145eae67c4d965710251d160aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Action Sequence.asset using Guid(f385a4145eae67c4d965710251d160aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39160816370ef9b3a0ec23d474699ed9') in 0.016561 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000790 seconds.
+  path: Assets/AnyConv.com__my house.obj
+  artifactKey: Guid(30fb9e777e3516542a2b4e7b28e0cbac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AnyConv.com__my house.obj using Guid(30fb9e777e3516542a2b4e7b28e0cbac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45c8e70705aa111b00f840d75c56fc9b') in 0.032990 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 16.224692 seconds.
+  path: Assets/image/Sphere.prefab
+  artifactKey: Guid(fd16951e1f47f2346bf5bcc1ba34c0cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/image/Sphere.prefab using Guid(fd16951e1f47f2346bf5bcc1ba34c0cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b272b26194196def8a8c28117277180') in 0.018101 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.490305 seconds.
+  path: Assets/market info/A1.png
+  artifactKey: Guid(605c5082835390c49ac0d93ecac458d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/market info/A1.png using Guid(605c5082835390c49ac0d93ecac458d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '034ba69f224de945319fb0f050c732be') in 0.061450 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000265 seconds.
+  path: Assets/market info/G7H1.png
+  artifactKey: Guid(f77a18bbfbea17f498147938eebec7a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/market info/G7H1.png using Guid(f77a18bbfbea17f498147938eebec7a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fec705f90f1c3bcc1e677a28e183c788') in 0.019002 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000211 seconds.
+  path: Assets/market info/E2.png
+  artifactKey: Guid(f183f63c94ec8be4b9eeb1bca587fbf1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/market info/E2.png using Guid(f183f63c94ec8be4b9eeb1bca587fbf1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e7365d766af35f7fa413a869ed2e876') in 0.045334 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000253 seconds.
+  path: Assets/market info/B4C1.png
+  artifactKey: Guid(99457bf0fd7cf09449464ec776d0baa3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/market info/B4C1.png using Guid(99457bf0fd7cf09449464ec776d0baa3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd8d3be62649c10ea27423a5d0471f236') in 0.035460 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000280 seconds.
+  path: Assets/market info/A3.png
+  artifactKey: Guid(f15a3ff55cc0cf24ea6a8303fcbc6588) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/market info/A3.png using Guid(f15a3ff55cc0cf24ea6a8303fcbc6588) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '08e82e64287f065555c881e906bece51') in 0.033776 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000255 seconds.
+  path: Assets/market info/F4G1.png
+  artifactKey: Guid(c876b9b177c32364388f43462a39eac7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/market info/F4G1.png using Guid(c876b9b177c32364388f43462a39eac7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd69189e42b63ee5426cad29a812cd8fe') in 0.034705 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000229 seconds.
+  path: Assets/market info/C7.png
+  artifactKey: Guid(0f12a0c7f2f1c264391f00078fcb7136) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/market info/C7.png using Guid(0f12a0c7f2f1c264391f00078fcb7136) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7aa732f792c151651bb1e348a3ebef70') in 0.016320 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000256 seconds.
+  path: Assets/market info/C8.png
+  artifactKey: Guid(d00cca708772e3a41a2ee78f2c6c0229) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/market info/C8.png using Guid(d00cca708772e3a41a2ee78f2c6c0229) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f2ebacc3814e232bfa625fca79013c7') in 0.019383 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000732 seconds.
+  path: Assets/market info/G5.png
+  artifactKey: Guid(641d5e028a027964bb1563fc62cef987) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/market info/G5.png using Guid(641d5e028a027964bb1563fc62cef987) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e3e8b75666c119a9117bd5d1d6b631d') in 0.016033 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000387 seconds.
+  path: Assets/market info/F3.png
+  artifactKey: Guid(56406f88fe25fe741941a09717280a70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/market info/F3.png using Guid(56406f88fe25fe741941a09717280a70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f9283104a741027f494805b2961f7109') in 0.037000 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000219 seconds.
+  path: Assets/market info/B2.png
+  artifactKey: Guid(00179cd15393aa242aa4547e48d4165a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/market info/B2.png using Guid(00179cd15393aa242aa4547e48d4165a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e737b5da5e8bb6298d81603a3ff66829') in 0.031600 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000218 seconds.
+  path: Assets/market info/D3.png
+  artifactKey: Guid(dbd9efa6b95773a429bd784fcba2517a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/market info/D3.png using Guid(dbd9efa6b95773a429bd784fcba2517a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '457756c44328e3d1da5360424839d35f') in 0.029393 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000228 seconds.
+  path: Assets/market info/A2.png
+  artifactKey: Guid(fac849caf50e4b549ab8c0049c143cc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/market info/A2.png using Guid(fac849caf50e4b549ab8c0049c143cc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd1d173c4d7ca8a009ed17480f8749703') in 0.033378 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000262 seconds.
+  path: Assets/market info/A5B1.png
+  artifactKey: Guid(2eab7061512986b47a398b33f9d4f7c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/market info/A5B1.png using Guid(2eab7061512986b47a398b33f9d4f7c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0956a76ab9e0b7048e9cea17d6149b49') in 0.033490 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000290 seconds.
+  path: Assets/market info/D1.png
+  artifactKey: Guid(a23565f0ef159ac419195327bece0518) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/market info/D1.png using Guid(a23565f0ef159ac419195327bece0518) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b00c0770f9c4ea621763250185b6017d') in 0.032686 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000282 seconds.
+  path: Assets/market info/E5F1.png
+  artifactKey: Guid(5aafc9bf0c69f7f4b91c5907edce205a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/market info/E5F1.png using Guid(5aafc9bf0c69f7f4b91c5907edce205a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '51661ff756ca355c217086361d4f43ef') in 0.033555 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000270 seconds.
+  path: Assets/market info/D4E1.png
+  artifactKey: Guid(0708e714df07018429509d8231aee48a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/market info/D4E1.png using Guid(0708e714df07018429509d8231aee48a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5196827ac6699dda3d797ca096b44fe4') in 0.034928 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000238 seconds.
+  path: Assets/market info/G6.png
+  artifactKey: Guid(bed79012f14b1354ba409ebd88004dae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/market info/G6.png using Guid(bed79012f14b1354ba409ebd88004dae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db9934b1a56938b879cc0baa264d1720') in 0.013312 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000305 seconds.
+  path: Assets/market info/G2.png
+  artifactKey: Guid(4290e21ab82f3cc4e8898c35ded29cd2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/market info/G2.png using Guid(4290e21ab82f3cc4e8898c35ded29cd2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cdede069813ff96e58c4509f9a16a0ee') in 0.021106 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000280 seconds.
+  path: Assets/market info/C4.png
+  artifactKey: Guid(154eabc47f72b314dacba7a5cb594971) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/market info/C4.png using Guid(154eabc47f72b314dacba7a5cb594971) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6fa37ffc9f791a1fd42c9f3ef62050ee') in 0.016532 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000298 seconds.
+  path: Assets/market info/A4.png
+  artifactKey: Guid(8291bff42ea19d349a2efb00d99934d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/market info/A4.png using Guid(8291bff42ea19d349a2efb00d99934d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1123c45e4575893c2bbcff179b35252b') in 0.037064 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000226 seconds.
+  path: Assets/market info/C3.png
+  artifactKey: Guid(b514c2bae766377478ce204e408dec20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/market info/C3.png using Guid(b514c2bae766377478ce204e408dec20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a3b6b8b48cfaf0aeea51b15c4923a2e') in 0.015577 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000241 seconds.
+  path: Assets/market info/C6.png
+  artifactKey: Guid(65a661ea8a38da04da18eb23c969ccef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/market info/C6.png using Guid(65a661ea8a38da04da18eb23c969ccef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '25f298a3cf9db400532f57c4fee2e3f8') in 0.022698 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000276 seconds.
+  path: Assets/market info/D2.png
+  artifactKey: Guid(3229d736b75410a47abeedbfa0c29ca1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/market info/D2.png using Guid(3229d736b75410a47abeedbfa0c29ca1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'efe44a4ad841d9463b4e249102d7f216') in 0.035812 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000237 seconds.
+  path: Assets/market info/C5.png
+  artifactKey: Guid(4d46cb4afb30b2644be978cd4d384235) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/market info/C5.png using Guid(4d46cb4afb30b2644be978cd4d384235) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '71beecfab22dc975180073b5486eb47f') in 0.019293 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000339 seconds.
+  path: Assets/market info/F2.png
+  artifactKey: Guid(016fdb35bfcf6404e8fcff6edd5fdb20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/market info/F2.png using Guid(016fdb35bfcf6404e8fcff6edd5fdb20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b69ff721472d93cea31555e036bf1d88') in 0.034263 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000220 seconds.
+  path: Assets/market info/B3.png
+  artifactKey: Guid(b29eca8a78fca6749a38bec221b1768b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/market info/B3.png using Guid(b29eca8a78fca6749a38bec221b1768b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c4e13c2c7c4b01266108dea61a5a826') in 0.043026 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000225 seconds.
+  path: Assets/market info/E4.png
+  artifactKey: Guid(212abcb01f5b4ee4fb543325519a3191) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/market info/E4.png using Guid(212abcb01f5b4ee4fb543325519a3191) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2ef58be4efedea7a523c488200ad469') in 0.033958 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000209 seconds.
+  path: Assets/market info/C2.png
+  artifactKey: Guid(e3fa98d6fb039954985969c32b93d37e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/market info/C2.png using Guid(e3fa98d6fb039954985969c32b93d37e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0fde5107b2ca922a66f357ff1ab5bc5f') in 0.018205 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000321 seconds.
+  path: Assets/market info/G3.png
+  artifactKey: Guid(d780af96bb20ef4428d0dc2f282bea82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/market info/G3.png using Guid(d780af96bb20ef4428d0dc2f282bea82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16d2a25882cd90a873f0cc8a3a46061e') in 0.020252 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000292 seconds.
+  path: Assets/market info/E3.png
+  artifactKey: Guid(fa95297e85af7d842bbf41ca9836de51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/market info/E3.png using Guid(fa95297e85af7d842bbf41ca9836de51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '268300f4be6ddded218a9b0335b52eca') in 0.033283 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000298 seconds.
+  path: Assets/market info/G4.png
+  artifactKey: Guid(7a91b52f976bba04db92708fae569f53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/market info/G4.png using Guid(7a91b52f976bba04db92708fae569f53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a5128385069d67a86730121a96a18252') in 0.016576 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.071818 seconds.
+  path: Assets/Materials/스타필드코엑스몰_플로어가이드_B1.mat
+  artifactKey: Guid(06e1daa9b06cd1c409377b3d16468341) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/스타필드코엑스몰_플로어가이드_B1.mat using Guid(06e1daa9b06cd1c409377b3d16468341) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e58e4b2612516a6e23b63a5ec198268') in 0.034848 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000263 seconds.
+  path: Assets/Materials/코엑스_스타필드_지하1층_지도.mat
+  artifactKey: Guid(ba68329cf8aec724289047a57bc9d370) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/코엑스_스타필드_지하1층_지도.mat using Guid(ba68329cf8aec724289047a57bc9d370) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78d1914d1c86a8c3b465cdd77643d763') in 0.016720 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.434222 seconds.
+  path: Assets/Scenes/Menu.prefab
+  artifactKey: Guid(ef19230658a9ff047b59076dead44e97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Menu.prefab using Guid(ef19230658a9ff047b59076dead44e97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0d0cf2d6589f645de23c2dd4e02e2f1') in 0.078402 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.802755 seconds.
+  path: Assets/XR/XRGeneralSettings.asset
+  artifactKey: Guid(1481c62e39be416489c39b606e2dcdd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/XR/XRGeneralSettings.asset using Guid(1481c62e39be416489c39b606e2dcdd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd1e3383edc1bfd224e105c029e32c3bb') in 0.015154 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.587904 seconds.
+  path: Assets/Ambiens/ArchToolkit/ATExplore/Modules/AR/Prefabs/AR  Image Marker Reference.prefab
+  artifactKey: Guid(d783d88f8ec670844a5215e18c5a9614) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ambiens/ArchToolkit/ATExplore/Modules/AR/Prefabs/AR  Image Marker Reference.prefab using Guid(d783d88f8ec670844a5215e18c5a9614) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b44e0fd7122d3c92565769d77dc874d') in 0.079147 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000258 seconds.
+  path: Assets/Ambiens/ArchToolkit/ATExplore/Scripts/MenuSystem/Prefabs/MainMenu.prefab
+  artifactKey: Guid(2221f95e4d8ed7242903afe901056517) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ambiens/ArchToolkit/ATExplore/Scripts/MenuSystem/Prefabs/MainMenu.prefab using Guid(2221f95e4d8ed7242903afe901056517) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '86a96dfa6f31a026a78b5394c9d7ebe2') in 0.011474 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000413 seconds.
+  path: Assets/Ambiens/ArchToolkit/ATExplore/Scripts/MenuSystem/Resources/MainMenuPrefabs/PPSettings.prefab
+  artifactKey: Guid(0aea81c5441d09949b7b401460f442bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ambiens/ArchToolkit/ATExplore/Scripts/MenuSystem/Resources/MainMenuPrefabs/PPSettings.prefab using Guid(0aea81c5441d09949b7b401460f442bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a7a445df04ed99cb7ff07899312a4a0') in 0.009867 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000276 seconds.
+  path: Assets/Ambiens/ArchToolkit/ATExplore/Resources/VR/HandsLogic/RightHand.prefab
+  artifactKey: Guid(6454acb2a4f911348b34cd7f1a61de4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ambiens/ArchToolkit/ATExplore/Resources/VR/HandsLogic/RightHand.prefab using Guid(6454acb2a4f911348b34cd7f1a61de4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f1ce2777c563c7f923b9dfa2ecbf82e4') in 0.014678 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000232 seconds.
+  path: Assets/Ambiens/ArchToolkit/ATExplore/Resources/Handles/RotArrow.prefab
+  artifactKey: Guid(4e1b549b0bc47d64686bf2391bf07506) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ambiens/ArchToolkit/ATExplore/Resources/Handles/RotArrow.prefab using Guid(4e1b549b0bc47d64686bf2391bf07506) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12191cd9dc8daa2338542072d2fed75e') in 0.020529 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000441 seconds.
+  path: Assets/Ambiens/ArchToolkit/ATExplore/Scripts/MenuSystem/Resources/MainMenuPrefabs/SwitchCamera.prefab
+  artifactKey: Guid(22e5cebbbc4302b44a172c804d5d620b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ambiens/ArchToolkit/ATExplore/Scripts/MenuSystem/Resources/MainMenuPrefabs/SwitchCamera.prefab using Guid(22e5cebbbc4302b44a172c804d5d620b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ca4dcdbaf3206afbf9705df9c155f2a') in 0.015913 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000319 seconds.
+  path: Assets/Ambiens/ArchToolkit/ATExplore/Resources/UI/EventSystem.prefab
+  artifactKey: Guid(3b2b369120462ff438e24e0a57a5c326) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ambiens/ArchToolkit/ATExplore/Resources/UI/EventSystem.prefab using Guid(3b2b369120462ff438e24e0a57a5c326) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e821ccee4feab60516a00b3888ec30a3') in 0.028543 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000328 seconds.
+  path: Assets/Ambiens/ArchToolkit/ATExplore/Resources/SingletonPrefabs/ImageSelectedDialog.prefab
+  artifactKey: Guid(2486bc8bc05f62347a044dbf65b090c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ambiens/ArchToolkit/ATExplore/Resources/SingletonPrefabs/ImageSelectedDialog.prefab using Guid(2486bc8bc05f62347a044dbf65b090c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eefed3bde3dbbfd4736af0e1dbc460f2') in 0.026585 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000356 seconds.
+  path: Assets/Ambiens/ArchToolkit/ATExplore/Resources/Handles/GenericHandle.prefab
+  artifactKey: Guid(f67af200b7b4e4d83a12bdf22425685b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ambiens/ArchToolkit/ATExplore/Resources/Handles/GenericHandle.prefab using Guid(f67af200b7b4e4d83a12bdf22425685b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bbe902555b0901149c5ad7d527f3a7b4') in 0.042695 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000269 seconds.
+  path: Assets/Ambiens/ArchToolkit/ATExplore/Scripts/MenuSystem/Resources/MainMenuPrefabs/SubMenuButtonsPrefab.prefab
+  artifactKey: Guid(bbe2624d5bd7db549a4a389847332789) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ambiens/ArchToolkit/ATExplore/Scripts/MenuSystem/Resources/MainMenuPrefabs/SubMenuButtonsPrefab.prefab using Guid(bbe2624d5bd7db549a4a389847332789) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c2a7a21654d444f9b2ba15ba88cd1b96') in 0.010114 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000303 seconds.
+  path: Assets/Ambiens/ArchToolkit/ATExplore/Modules/BuildSystem/Devices/Graphics/HTC Vive/Controller.prefab
+  artifactKey: Guid(3baf6e3b069e56c489432b0700bfefa0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ambiens/ArchToolkit/ATExplore/Modules/BuildSystem/Devices/Graphics/HTC Vive/Controller.prefab using Guid(3baf6e3b069e56c489432b0700bfefa0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c2488084fc21075842c5f5fe1582d16') in 0.020252 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000308 seconds.
+  path: Assets/Ambiens/ArchToolkit/ATExplore/Modules/AR/Prefabs/Sphere.prefab
+  artifactKey: Guid(b20a5f3dddfdcc34c95fb0568e8c843c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ambiens/ArchToolkit/ATExplore/Modules/AR/Prefabs/Sphere.prefab using Guid(b20a5f3dddfdcc34c95fb0568e8c843c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fcf643a64acb891df429b12b93369746') in 0.244309 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000253 seconds.
+  path: Assets/Ambiens/ArchToolkit/ATExplore/Samples/KitchenDemoScene/Materials/AVR_Metal/Metal.mat
+  artifactKey: Guid(d225531bacac5bf448ec9d6ccd217bbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ambiens/ArchToolkit/ATExplore/Samples/KitchenDemoScene/Materials/AVR_Metal/Metal.mat using Guid(d225531bacac5bf448ec9d6ccd217bbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd9abeab2d64419d1ff5c7b0a138ae36') in 0.029445 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000669 seconds.
+  path: Assets/Ambiens/ArchToolkit/ATExplore/Modules/AR/Samples/AmbiensOfficeRoom/Materials/AVR_Metal/AVR_MetalAluminium/AVR_MetalAluminium.mat
+  artifactKey: Guid(14b892abeabce414790f4626c84dc044) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ambiens/ArchToolkit/ATExplore/Modules/AR/Samples/AmbiensOfficeRoom/Materials/AVR_Metal/AVR_MetalAluminium/AVR_MetalAluminium.mat using Guid(14b892abeabce414790f4626c84dc044) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '49ad15b15631f50472b10ea9ba1189ae') in 0.251293 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000345 seconds.
+  path: Assets/Ambiens/ArchToolkit/ATExplore/3DModels/VRUtils/Controllers/Oculus/LeftController/Materials/external_controller01_col.mat
+  artifactKey: Guid(7c019798a0762354f8a9c92d0366b1f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ambiens/ArchToolkit/ATExplore/3DModels/VRUtils/Controllers/Oculus/LeftController/Materials/external_controller01_col.mat using Guid(7c019798a0762354f8a9c92d0366b1f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30331e32ee54bb8dd0f3203c94e8a7ac') in 0.020762 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000308 seconds.
+  path: Assets/Ambiens/ArchToolkit/ATExplore/Samples/KitchenDemoScene/Materials/AVR_Glass/Glass.mat
+  artifactKey: Guid(602712356fbeba1499a5ba5e286473c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ambiens/ArchToolkit/ATExplore/Samples/KitchenDemoScene/Materials/AVR_Glass/Glass.mat using Guid(602712356fbeba1499a5ba5e286473c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f80eacf3c6c1ad4179ead01272c701be') in 0.243559 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000266 seconds.
+  path: Assets/Ambiens/ArchToolkit/ATExplore/3DModels/VRUtils/Controllers/Oculus/LeftController/oculus_cv1_controller_left.obj
+  artifactKey: Guid(d232a90655491fc44b71ecb39b3abfb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ambiens/ArchToolkit/ATExplore/3DModels/VRUtils/Controllers/Oculus/LeftController/oculus_cv1_controller_left.obj using Guid(d232a90655491fc44b71ecb39b3abfb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b78618eb5d72c03b91614ba9b5c940fb') in 0.033017 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000267 seconds.
+  path: Assets/Ambiens/ArchToolkit/ATExplore/3DModels/VRUtils/Controllers/Oculus/RightController/Materials/external_contoller_01_blinn1SG.mat
+  artifactKey: Guid(7d2a8a6d6bdca614fa59d580e0544792) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ambiens/ArchToolkit/ATExplore/3DModels/VRUtils/Controllers/Oculus/RightController/Materials/external_contoller_01_blinn1SG.mat using Guid(7d2a8a6d6bdca614fa59d580e0544792) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d4af46a096b55c2eb9e6237ba46d86e') in 0.013925 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000377 seconds.
+  path: Assets/Ambiens/ArchToolkit/ATExplore/3DModels/VRUtils/Controllers/WindowMixedReality/LeftController/Controller.obj
+  artifactKey: Guid(f148e55a35939dc41a282d8de25484e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ambiens/ArchToolkit/ATExplore/3DModels/VRUtils/Controllers/WindowMixedReality/LeftController/Controller.obj using Guid(f148e55a35939dc41a282d8de25484e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5db5b84a7b6751532459bda3729b0666') in 0.028123 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000310 seconds.
+  path: Assets/Ambiens/ArchToolkit/ATExplore/3DModels/VRUtils/Controllers/HtcVive/Materials/lambert4SG.mat
+  artifactKey: Guid(b8fe57d82453a0e4c944b25abbb6833b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ambiens/ArchToolkit/ATExplore/3DModels/VRUtils/Controllers/HtcVive/Materials/lambert4SG.mat using Guid(b8fe57d82453a0e4c944b25abbb6833b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1df5a34fbd967bf0e9d93e6ed64a6145') in 0.015745 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000261 seconds.
+  path: Assets/Ambiens/ArchToolkit/ATExplore/Modules/BuildSystem/Devices/Graphics/Quest2/Material/LefttQuest2Mat.mat
+  artifactKey: Guid(2cc9848e98bfdea4081f43070d7ccae6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ambiens/ArchToolkit/ATExplore/Modules/BuildSystem/Devices/Graphics/Quest2/Material/LefttQuest2Mat.mat using Guid(2cc9848e98bfdea4081f43070d7ccae6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '419d7e984dd3a7e745543650d214a6e3') in 0.020245 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000270 seconds.
+  path: Assets/Ambiens/ArchToolkit/ATExplore/Modules/AR/Samples/AmbiensOfficeRoom/Materials/AVR_Terrain/AVR_Terrain.mat
+  artifactKey: Guid(1754c7b2eb63ec0478c5d7477219fc78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ambiens/ArchToolkit/ATExplore/Modules/AR/Samples/AmbiensOfficeRoom/Materials/AVR_Terrain/AVR_Terrain.mat using Guid(1754c7b2eb63ec0478c5d7477219fc78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '28c95a9f8bf27c8ea120fc96451cf314') in 0.050739 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000291 seconds.
+  path: Assets/Ambiens/ArchToolkit/ATExplore/Materials/UI/lineMat.mat
+  artifactKey: Guid(1a92eb3f9c7bd524d9190fc0eaac14c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ambiens/ArchToolkit/ATExplore/Materials/UI/lineMat.mat using Guid(1a92eb3f9c7bd524d9190fc0eaac14c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9868a8feb70e2a024ae1be00a4b6ec20') in 0.014206 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000238 seconds.
+  path: Assets/Ambiens/ArchToolkit/ATExplore/Modules/AR/Samples/AmbiensOfficeRoom/Materials/AVR_Metal/AVR_BlackMetal/AVR_BlackMetal.mat
+  artifactKey: Guid(ef86b25f64347f648b23ac505c0fd82e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ambiens/ArchToolkit/ATExplore/Modules/AR/Samples/AmbiensOfficeRoom/Materials/AVR_Metal/AVR_BlackMetal/AVR_BlackMetal.mat using Guid(ef86b25f64347f648b23ac505c0fd82e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '84326463d96e0e50ef1df541e1157965') in 0.292535 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000241 seconds.
+  path: Assets/Ambiens/ArchToolkit/ATExplore/Samples/KitchenDemoScene/Materials/AVR_Light/Light.mat
+  artifactKey: Guid(68338135fc0dc7d45b9ecf31402969be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ambiens/ArchToolkit/ATExplore/Samples/KitchenDemoScene/Materials/AVR_Light/Light.mat using Guid(68338135fc0dc7d45b9ecf31402969be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be62cfa083234006cb8bb9b1aafde407') in 0.135880 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000289 seconds.
+  path: Assets/Ambiens/ArchToolkit/ATExplore/Samples/KitchenDemoScene/Materials/AVR_Plaster/BluePlaster.mat
+  artifactKey: Guid(aae48181d8d3dc544b256c8175950b33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ambiens/ArchToolkit/ATExplore/Samples/KitchenDemoScene/Materials/AVR_Plaster/BluePlaster.mat using Guid(aae48181d8d3dc544b256c8175950b33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f63c620449acfedddd9bffa6cfb658f2') in 0.062237 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000313 seconds.
+  path: Assets/Ambiens/ArchToolkit/ATExplore/Modules/AR/Samples/AmbiensOfficeRoom/Materials/AVR_Wood/AVR_LightWood/AVR_LightWood.mat
+  artifactKey: Guid(c4ade6e4e6d58bb4e9d1d7100865f969) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ambiens/ArchToolkit/ATExplore/Modules/AR/Samples/AmbiensOfficeRoom/Materials/AVR_Wood/AVR_LightWood/AVR_LightWood.mat using Guid(c4ade6e4e6d58bb4e9d1d7100865f969) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb33f54936f2281abd0757790b2fedb8') in 0.067015 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000367 seconds.
+  path: Assets/Ambiens/ArchToolkit/ATExplore/3DModels/VRUtils/Controllers/HtcVive/body.obj
+  artifactKey: Guid(0bbc90b47bd227348a5f3176629f17e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ambiens/ArchToolkit/ATExplore/3DModels/VRUtils/Controllers/HtcVive/body.obj using Guid(0bbc90b47bd227348a5f3176629f17e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '538dc6ad3fc2dccba2bba10a21fc50fc') in 0.047656 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000297 seconds.
+  path: Assets/Ambiens/ArchToolkit/ATExplore/Materials/UI/floatingUIMat.mat
+  artifactKey: Guid(21babae87465f9f46bcea6a7af9f75aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ambiens/ArchToolkit/ATExplore/Materials/UI/floatingUIMat.mat using Guid(21babae87465f9f46bcea6a7af9f75aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9cdab18fdbd2f1ea629bdd16ad0dd308') in 0.012755 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000248 seconds.
+  path: Assets/Ambiens/ArchToolkit/ATExplore/Materials/UI/floatingUIMatBehindText.mat
+  artifactKey: Guid(cb7471197652689469fadb047a5479e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ambiens/ArchToolkit/ATExplore/Materials/UI/floatingUIMatBehindText.mat using Guid(cb7471197652689469fadb047a5479e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ede871b4dcfcbd40bc4795abf1aa8cb6') in 0.015128 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000180 seconds.
+  path: Assets/Ambiens/ArchToolkit/ATExplore/Modules/BuildSystem/Devices/Graphics/Quest2/RightController/Quest2_rightController.prefab
+  artifactKey: Guid(851e575b7ad1a7e49988d074b5a2b20b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ambiens/ArchToolkit/ATExplore/Modules/BuildSystem/Devices/Graphics/Quest2/RightController/Quest2_rightController.prefab using Guid(851e575b7ad1a7e49988d074b5a2b20b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cbcce25b93132fe76946e494b3d8bc83') in 0.020531 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000245 seconds.
+  path: Assets/Ambiens/ArchToolkit/ATExplore/Samples/KitchenDemoScene/Models/AVR_Intercom.fbx
+  artifactKey: Guid(3d70d166d63013e498b447d7556071f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ambiens/ArchToolkit/ATExplore/Samples/KitchenDemoScene/Models/AVR_Intercom.fbx using Guid(3d70d166d63013e498b447d7556071f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '563f3c4774f6b51c75f675edcdcf0d14') in 0.024543 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000225 seconds.
+  path: Assets/Ambiens/ArchToolkit/ATExplore/Resources/Tom.prefab
+  artifactKey: Guid(300809d0f1d52554ca4ca427701acce1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ambiens/ArchToolkit/ATExplore/Resources/Tom.prefab using Guid(300809d0f1d52554ca4ca427701acce1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f547debb419080141c16189726c0753d') in 0.015984 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000210 seconds.
+  path: Assets/Ambiens/ArchToolkit/ATExplore/Modules/BuildSystem/Devices/Graphics/OculusGo/Controller.prefab
+  artifactKey: Guid(52886bf71db807643af11774c92b708c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ambiens/ArchToolkit/ATExplore/Modules/BuildSystem/Devices/Graphics/OculusGo/Controller.prefab using Guid(52886bf71db807643af11774c92b708c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ea92c566992eb03c3dd2d0287eaba01') in 0.155230 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000274 seconds.
+  path: Assets/Ambiens/ArchToolkit/ATExplore/Samples/KitchenDemoScene/Materials/AVR_Carpet/Carpet.mat
+  artifactKey: Guid(00c00d22fe077d54a828c37c63b171cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ambiens/ArchToolkit/ATExplore/Samples/KitchenDemoScene/Materials/AVR_Carpet/Carpet.mat using Guid(00c00d22fe077d54a828c37c63b171cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '665412ed33098574f775d60224b35ee7') in 0.037606 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000341 seconds.
+  path: Assets/Ambiens/ArchToolkit/ATExplore/3DModels/VRUtils/Controllers/Oculus/RightController/Materials/external_controller01_col.mat
+  artifactKey: Guid(546bb175cad9a844eb854071659858e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ambiens/ArchToolkit/ATExplore/3DModels/VRUtils/Controllers/Oculus/RightController/Materials/external_controller01_col.mat using Guid(546bb175cad9a844eb854071659858e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a2fcb31769c9267ce1c678e0b263a6c2') in 0.016864 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000298 seconds.
+  path: Assets/Ambiens/ArchToolkit/ATExplore/Resources/UI/ImageSelectButton.prefab
+  artifactKey: Guid(39a7447d1b4a0384d877580321817d9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ambiens/ArchToolkit/ATExplore/Resources/UI/ImageSelectButton.prefab using Guid(39a7447d1b4a0384d877580321817d9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0584193f754c6c28ba28cfea9a8fa933') in 0.014696 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000295 seconds.
+  path: Assets/Ambiens/ArchToolkit/ATExplore/Materials/UI/360Photo.mat
+  artifactKey: Guid(7e042837405ebab4eb9196d3f122e1fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ambiens/ArchToolkit/ATExplore/Materials/UI/360Photo.mat using Guid(7e042837405ebab4eb9196d3f122e1fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb858b7b769fd7dffad1a7c4878e74b2') in 0.017722 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000355 seconds.
+  path: Assets/Ambiens/ArchToolkit/ATExplore/3DModels/VRUtils/Controllers/Oculus/RightController/oculus_cv1_controller_right.obj
+  artifactKey: Guid(1ca4dc73df39f4240a06b4c612b4c720) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ambiens/ArchToolkit/ATExplore/3DModels/VRUtils/Controllers/Oculus/RightController/oculus_cv1_controller_right.obj using Guid(1ca4dc73df39f4240a06b4c612b4c720) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '037aabe066f8c4743562afc8e425a6b2') in 0.033504 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000295 seconds.
+  path: Assets/Ambiens/ArchToolkit/ATExplore/Modules/AR/Samples/AmbiensOfficeRoom/Materials/AVR_Plastic/AVR_BlackPlastic.mat
+  artifactKey: Guid(39f6720fadd4ef948a0cd7bcd7d7daaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ambiens/ArchToolkit/ATExplore/Modules/AR/Samples/AmbiensOfficeRoom/Materials/AVR_Plastic/AVR_BlackPlastic.mat using Guid(39f6720fadd4ef948a0cd7bcd7d7daaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e2fb6cfab13483de2a6ddf5cbebafed') in 0.263043 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000267 seconds.
+  path: Assets/Ambiens/ArchToolkit/ATExplore/Modules/BuildSystem/Devices/Graphics/WindowsMixedReality/LeftController/Controller.prefab
+  artifactKey: Guid(8d6cefdd4f8655e41bcb4a21ce83b67b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ambiens/ArchToolkit/ATExplore/Modules/BuildSystem/Devices/Graphics/WindowsMixedReality/LeftController/Controller.prefab using Guid(8d6cefdd4f8655e41bcb4a21ce83b67b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bad490cbe8b8433772e7b03c0abb2b89') in 0.017513 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000258 seconds.
+  path: Assets/Ambiens/ArchToolkit/ATExplore/Samples/KitchenDemoScene/Models/AVR_Carpet.fbx
+  artifactKey: Guid(4dfa383a61f46144b852a0909cf1a010) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ambiens/ArchToolkit/ATExplore/Samples/KitchenDemoScene/Models/AVR_Carpet.fbx using Guid(4dfa383a61f46144b852a0909cf1a010) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1bafb93de2edf7259a5804db9ab7c734') in 0.030147 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000402 seconds.
+  path: Assets/Ambiens/ArchToolkit/ATExplore/Modules/BuildSystem/Devices/Graphics/OculusRift/RightController/Controller.prefab
+  artifactKey: Guid(9ecf7f81b061ff548bb1c0c603a72208) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ambiens/ArchToolkit/ATExplore/Modules/BuildSystem/Devices/Graphics/OculusRift/RightController/Controller.prefab using Guid(9ecf7f81b061ff548bb1c0c603a72208) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd485d4da0cc3677232ed56c90a2f8d09') in 0.021454 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000434 seconds.
+  path: Assets/Ambiens/ArchToolkit/ATExplore/Modules/AR/Samples/AmbiensOfficeRoom/Prefabs/AVR_Desk.prefab
+  artifactKey: Guid(8cf70ef1686ba5544895e38e3dc1a9c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ambiens/ArchToolkit/ATExplore/Modules/AR/Samples/AmbiensOfficeRoom/Prefabs/AVR_Desk.prefab using Guid(8cf70ef1686ba5544895e38e3dc1a9c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0881f307ac006b8cfb00b0236a0f2b21') in 0.216797 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000264 seconds.
+  path: Assets/Ambiens/ArchToolkit/ATExplore/3DModels/VRUtils/Materials/No Name.mat
+  artifactKey: Guid(8d207a9fba41f43499ba948b69cb45b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ambiens/ArchToolkit/ATExplore/3DModels/VRUtils/Materials/No Name.mat using Guid(8d207a9fba41f43499ba948b69cb45b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c1938061260186bc08e3fc3bd4ea6008') in 0.011803 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000290 seconds.
+  path: Assets/Ambiens/ArchToolkit/ATExplore/3DModels/VRUtils/Controllers/WindowMixedReality/RightController/Materials/defaultMat.mat
+  artifactKey: Guid(987595387c7049e4aafcbb3e9e6f26e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ambiens/ArchToolkit/ATExplore/3DModels/VRUtils/Controllers/WindowMixedReality/RightController/Materials/defaultMat.mat using Guid(987595387c7049e4aafcbb3e9e6f26e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '471f0edf55e3daea1413ab8897ecd050') in 0.018149 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000279 seconds.
+  path: Assets/Ambiens/ArchToolkit/ATExplore/Modules/BuildSystem/Devices/Graphics/PicoNeo2/PicoNeoRight.prefab
+  artifactKey: Guid(748ceb594ccead84c9aa7125473f23a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ambiens/ArchToolkit/ATExplore/Modules/BuildSystem/Devices/Graphics/PicoNeo2/PicoNeoRight.prefab using Guid(748ceb594ccead84c9aa7125473f23a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '290a01c064113c0cc7fc3fe17f8fec82') in 0.010786 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000524 seconds.
+  path: Assets/Ambiens/ArchToolkit/ATExplore/Modules/BuildSystem/Devices/Graphics/Cosmos/Cosmos Controller v1.mat
+  artifactKey: Guid(f11c76211ae53cc4b818d9d353b8cf4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ambiens/ArchToolkit/ATExplore/Modules/BuildSystem/Devices/Graphics/Cosmos/Cosmos Controller v1.mat using Guid(f11c76211ae53cc4b818d9d353b8cf4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '874e246e6efffb895d7b186a6dd59570') in 0.246694 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000251 seconds.
+  path: Assets/Ambiens/ArchToolkit/ATExplore/Resources/UI/ArchHUDMobileSwipe.prefab
+  artifactKey: Guid(329fa9b19b88b834d969fadb169dbf93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ambiens/ArchToolkit/ATExplore/Resources/UI/ArchHUDMobileSwipe.prefab using Guid(329fa9b19b88b834d969fadb169dbf93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b92bd454be21501973ba5dee8a02886') in 0.020910 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000764 seconds.
+  path: Assets/Ambiens/ArchToolkit/ATExplore/Scripts/MenuSystem/Resources/MainMenuPrefabs/HeightSettings.prefab
+  artifactKey: Guid(8951e6cd66fa0e940a072ea3b3e049ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ambiens/ArchToolkit/ATExplore/Scripts/MenuSystem/Resources/MainMenuPrefabs/HeightSettings.prefab using Guid(8951e6cd66fa0e940a072ea3b3e049ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5f3ec3119c08640d7577df4ae90b2c24') in 0.014122 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000856 seconds.
+  path: Packages/com.unity.xr.arfoundation/Materials/DebugFace.mat
+  artifactKey: Guid(35bd980c8f2234e3d8b640e25a677d65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.xr.arfoundation/Materials/DebugFace.mat using Guid(35bd980c8f2234e3d8b640e25a677d65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b775d5240a537cadaa102879a9b59061') in 0.090774 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000233 seconds.
+  path: Assets/Ambiens/ArchToolkit/ATExplore/Resources/UI/ArchHUDMobileJoystick.prefab
+  artifactKey: Guid(f644e34f088f8d14ca236791240dcb32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ambiens/ArchToolkit/ATExplore/Resources/UI/ArchHUDMobileJoystick.prefab using Guid(f644e34f088f8d14ca236791240dcb32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de1cfff30c75a6ad5e0a86e6b2a16f72') in 0.012741 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000306 seconds.
+  path: Assets/Ambiens/ArchToolkit/ATExplore/Resources/SingletonPrefabs/Three60Photo.prefab
+  artifactKey: Guid(45e1b5c984a84cb419eeefc341e8edab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ambiens/ArchToolkit/ATExplore/Resources/SingletonPrefabs/Three60Photo.prefab using Guid(45e1b5c984a84cb419eeefc341e8edab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ef2fed072d81a5567a9b1d996fe079d') in 0.019231 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000343 seconds.
+  path: Assets/Ambiens/ArchToolkit/ATExplore/3DModels/VRUtils/Controllers/WindowMixedReality/RightController/BODY.obj
+  artifactKey: Guid(76995ffbfe992ef4a8f07cfde136431c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ambiens/ArchToolkit/ATExplore/3DModels/VRUtils/Controllers/WindowMixedReality/RightController/BODY.obj using Guid(76995ffbfe992ef4a8f07cfde136431c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ccdfb9e974328786d7519e7ea3dd1887') in 0.028976 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000354 seconds.
+  path: Assets/Ambiens/ArchToolkit/ATExplore/3DModels/VRUtils/Controllers/OculusGoController/Materials/mp.mat
+  artifactKey: Guid(2415fa496e26c0f488d66965306c1897) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ambiens/ArchToolkit/ATExplore/3DModels/VRUtils/Controllers/OculusGoController/Materials/mp.mat using Guid(2415fa496e26c0f488d66965306c1897) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '90826a6c21953f5b886bc1ff76befec0') in 0.018565 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000299 seconds.
+  path: Assets/Ambiens/ArchToolkit/ATExplore/Scripts/MenuSystem/Resources/MainMenuPrefabs/PhotoCamera.prefab
+  artifactKey: Guid(3242da5d7e2474243a8380081b123742) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ambiens/ArchToolkit/ATExplore/Scripts/MenuSystem/Resources/MainMenuPrefabs/PhotoCamera.prefab using Guid(3242da5d7e2474243a8380081b123742) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '93d285ce0776cd312096b8b2d08675e7') in 0.012408 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000244 seconds.
+  path: Assets/Ambiens/ArchToolkit/ATExplore/Modules/BuildSystem/Devices/Graphics/OculusRift/LeftController/Controller.prefab
+  artifactKey: Guid(043e82e753fb7584897d04158e6c3220) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ambiens/ArchToolkit/ATExplore/Modules/BuildSystem/Devices/Graphics/OculusRift/LeftController/Controller.prefab using Guid(043e82e753fb7584897d04158e6c3220) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b59463eb9445c6fce54c3e6bdb9ad21') in 0.019974 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000254 seconds.
+  path: Assets/Ambiens/ArchToolkit/ATExplore/Samples/KitchenDemoScene/Materials/AVR_Plastic/BlackPlastic.mat
+  artifactKey: Guid(adb0fd2bd820f8443b63299191cd3a3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ambiens/ArchToolkit/ATExplore/Samples/KitchenDemoScene/Materials/AVR_Plastic/BlackPlastic.mat using Guid(adb0fd2bd820f8443b63299191cd3a3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dfcdc6839a9ec41f1f93e37a2d759ba7') in 0.023512 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000274 seconds.
+  path: Assets/Ambiens/ArchToolkit/ATExplore/Samples/KitchenDemoScene/Materials/AVR_Plaster/GreenPlaster.mat
+  artifactKey: Guid(cd8c02f78fb0ad647814c0ca51ad485c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ambiens/ArchToolkit/ATExplore/Samples/KitchenDemoScene/Materials/AVR_Plaster/GreenPlaster.mat using Guid(cd8c02f78fb0ad647814c0ca51ad485c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a94f16d71446e96c653f26380beb1b51') in 0.031239 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000264 seconds.
+  path: Assets/Ambiens/ArchToolkit/ATExplore/Samples/KitchenDemoScene/Materials/AVR_Plaster/BluePlaster 1.mat
+  artifactKey: Guid(ac832dac8821c494b9a5b200e6ec2a12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ambiens/ArchToolkit/ATExplore/Samples/KitchenDemoScene/Materials/AVR_Plaster/BluePlaster 1.mat using Guid(ac832dac8821c494b9a5b200e6ec2a12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0be4694db6471ae5fdb196cb4c869f68') in 0.033051 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000446 seconds.
+  path: Assets/Ambiens/ArchToolkit/ATExplore/Materials/UI/Mark1.mat
+  artifactKey: Guid(00e3a5089e452fd4a85ea7161592c02c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ambiens/ArchToolkit/ATExplore/Materials/UI/Mark1.mat using Guid(00e3a5089e452fd4a85ea7161592c02c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd3dab5f2432a98faffe2e564621d125') in 0.014082 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000274 seconds.
+  path: Assets/Ambiens/ArchToolkit/ATExplore/Samples/KitchenDemoScene/Materials/AVR_Plastic/BluePlastic.mat
+  artifactKey: Guid(e8abbd58482143244b16b432b5b56e2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ambiens/ArchToolkit/ATExplore/Samples/KitchenDemoScene/Materials/AVR_Plastic/BluePlastic.mat using Guid(e8abbd58482143244b16b432b5b56e2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a68d723e4c4f39696f9989b580e9b4d') in 0.027074 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000391 seconds.
+  path: Assets/Ambiens/ArchToolkit/ATExplore/3DModels/Materials/Invisible wall.mat
+  artifactKey: Guid(8c24f58ad9271c44891cea8e0c445af8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ambiens/ArchToolkit/ATExplore/3DModels/Materials/Invisible wall.mat using Guid(8c24f58ad9271c44891cea8e0c445af8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc2cc9deba85ec5269b62bebcf9c8363') in 0.016221 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000301 seconds.
+  path: Assets/Ambiens/ArchToolkit/ATExplore/Resources/VR/HandsLogic/LeftHand.prefab
+  artifactKey: Guid(c1f49335d52fb9d48a52b8dba8d1b036) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ambiens/ArchToolkit/ATExplore/Resources/VR/HandsLogic/LeftHand.prefab using Guid(c1f49335d52fb9d48a52b8dba8d1b036) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '62da536154c6e5df692ddb05cdf37910') in 0.012089 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000435 seconds.
+  path: Assets/Ambiens/ArchToolkit/ATExplore/Resources/Handles/TranslateArrow.prefab
+  artifactKey: Guid(aabb88f4116ebaa4d9d61378cd35d2de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ambiens/ArchToolkit/ATExplore/Resources/Handles/TranslateArrow.prefab using Guid(aabb88f4116ebaa4d9d61378cd35d2de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a290c5780aefcb9fa50a10748516b643') in 0.015435 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000296 seconds.
+  path: Assets/Ambiens/ArchToolkit/ATExplore/3DModels/VRUtils/Controllers/WindowMixedReality/LeftController/Materials/defaultMat.mat
+  artifactKey: Guid(ca08dc7ecc2ad994e92018fd9b4a8e3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ambiens/ArchToolkit/ATExplore/3DModels/VRUtils/Controllers/WindowMixedReality/LeftController/Materials/defaultMat.mat using Guid(ca08dc7ecc2ad994e92018fd9b4a8e3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cdae41f5198aebd2f677dfdde4dced1c') in 0.011140 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000311 seconds.
+  path: Assets/Ambiens/ArchToolkit/ATExplore/Modules/AR/Samples/AmbiensOfficeRoom/Prefabs/AVR_Shelf .prefab
+  artifactKey: Guid(f72af114406502544ba845dd51457630) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ambiens/ArchToolkit/ATExplore/Modules/AR/Samples/AmbiensOfficeRoom/Prefabs/AVR_Shelf .prefab using Guid(f72af114406502544ba845dd51457630) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '41296267dcb21288c214171e64f9f97a') in 0.073902 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000288 seconds.
+  path: Assets/Ambiens/ArchToolkit/ATExplore/Resources/VisitorFollowCam.prefab
+  artifactKey: Guid(691e20baabda84bbfb3b25c398273a96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ambiens/ArchToolkit/ATExplore/Resources/VisitorFollowCam.prefab using Guid(691e20baabda84bbfb3b25c398273a96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f598f8a1ef73655fd126f7488f0c742d') in 0.010508 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000252 seconds.
+  path: Assets/Ambiens/ArchToolkit/ATExplore/Samples/KitchenDemoScene/Materials/AVR_Ceramic/AVR_Ceramic.mat
+  artifactKey: Guid(80b61a9f3c4548e4899dc22234304047) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ambiens/ArchToolkit/ATExplore/Samples/KitchenDemoScene/Materials/AVR_Ceramic/AVR_Ceramic.mat using Guid(80b61a9f3c4548e4899dc22234304047) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '020be69acb45c9b76c8baec43763f59c') in 0.021647 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000318 seconds.
+  path: Assets/Ambiens/ArchToolkit/ATExplore/Scripts/MenuSystem/MenuElements/PhotoCamera/camPreviewMaterial.mat
+  artifactKey: Guid(10f9693b3f4e7de41b03846919ce6ae6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ambiens/ArchToolkit/ATExplore/Scripts/MenuSystem/MenuElements/PhotoCamera/camPreviewMaterial.mat using Guid(10f9693b3f4e7de41b03846919ce6ae6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '41dc4ce8810018db7e71d4c867f939e7') in 0.016088 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000322 seconds.
+  path: Assets/Ambiens/ArchToolkit/ATExplore/Scripts/MenuSystem/Resources/MainMenuPrefabs/ExitButton.prefab
+  artifactKey: Guid(b389417a1f1b62e48a2204551a5b41aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ambiens/ArchToolkit/ATExplore/Scripts/MenuSystem/Resources/MainMenuPrefabs/ExitButton.prefab using Guid(b389417a1f1b62e48a2204551a5b41aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed9f9c59adba9591fe2428ab509e7da1') in 0.012611 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000267 seconds.
+  path: Assets/Ambiens/ArchToolkit/ATExplore/Resources/Handles/TeleportPoint.prefab
+  artifactKey: Guid(eb0d26edd883804488999e358fa3527b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ambiens/ArchToolkit/ATExplore/Resources/Handles/TeleportPoint.prefab using Guid(eb0d26edd883804488999e358fa3527b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a4cfb06d48de335dd4e72a2ab6ec4cf') in 0.035521 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000236 seconds.
+  path: Assets/Ambiens/ArchToolkit/ATExplore/Samples/KitchenDemoScene/Materials/AVR_Fabric/Fabric_PIllow.mat
+  artifactKey: Guid(86c65bf1a96c44d42bc5b88d121d05fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ambiens/ArchToolkit/ATExplore/Samples/KitchenDemoScene/Materials/AVR_Fabric/Fabric_PIllow.mat using Guid(86c65bf1a96c44d42bc5b88d121d05fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '76eca5b5ea071b5b11300e8a9345635a') in 0.028330 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000362 seconds.
+  path: Assets/Ambiens/ArchToolkit/ATExplore/Samples/KitchenDemoScene/Materials/AVR_Plastic/GreenPlastic.mat
+  artifactKey: Guid(ce1744c1658ff784fb080d05d88e8b63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ambiens/ArchToolkit/ATExplore/Samples/KitchenDemoScene/Materials/AVR_Plastic/GreenPlastic.mat using Guid(ce1744c1658ff784fb080d05d88e8b63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a12c8674e2644572f0b3266b0d25b11') in 0.031272 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000222 seconds.
+  path: Assets/Ambiens/ArchToolkit/ATExplore/3DModels/VRUtils/Controllers/Oculus/LeftController/Materials/external_contoller_01_blinn1SG.mat
+  artifactKey: Guid(df35a7a11108ed94a8543c3b4faa3e1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ambiens/ArchToolkit/ATExplore/3DModels/VRUtils/Controllers/Oculus/LeftController/Materials/external_contoller_01_blinn1SG.mat using Guid(df35a7a11108ed94a8543c3b4faa3e1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '24fbf0926dae1f874e61cf7988dbe365') in 0.014998 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000285 seconds.
+  path: Assets/Ambiens/ArchToolkit/ATExplore/Modules/AR/Samples/AmbiensOfficeRoom/Materials/AVR_Desk/AVR_Desk.mat
+  artifactKey: Guid(969923b428782464ba26968a90230bb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ambiens/ArchToolkit/ATExplore/Modules/AR/Samples/AmbiensOfficeRoom/Materials/AVR_Desk/AVR_Desk.mat using Guid(969923b428782464ba26968a90230bb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c989692f1ee4a983b5a2bdbe7256c9f') in 0.025539 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000269 seconds.
+  path: Assets/Ambiens/ArchToolkit/ATExplore/Resources/Visitor.prefab
+  artifactKey: Guid(9f1562bf1ff8f7e46a3e4bbb898f6183) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ambiens/ArchToolkit/ATExplore/Resources/Visitor.prefab using Guid(9f1562bf1ff8f7e46a3e4bbb898f6183) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2199229022dea0bb6831e510b7397d78') in 0.019161 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000301 seconds.
+  path: Packages/com.unity.xr.arfoundation/Materials/DebugPlane.mat
+  artifactKey: Guid(f1a110d32af21aa4d872c707dfcc6043) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.xr.arfoundation/Materials/DebugPlane.mat using Guid(f1a110d32af21aa4d872c707dfcc6043) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '867c37191734b83677301b6e336cd9ff') in 0.195058 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000277 seconds.
+  path: Assets/Ambiens/ArchToolkit/ATExplore/Modules/AR/Prefabs/ARPlane.prefab
+  artifactKey: Guid(faa11aaaa739a854995ea27fbfbf6107) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ambiens/ArchToolkit/ATExplore/Modules/AR/Prefabs/ARPlane.prefab using Guid(faa11aaaa739a854995ea27fbfbf6107) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '155e81659500b8687ea99f9980acbff3') in 0.010902 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000278 seconds.
+  path: Assets/Ambiens/ArchToolkit/ATExplore/Modules/BuildSystem/Devices/Graphics/Quest2/LeftController/Quest2_LeftController.prefab
+  artifactKey: Guid(14eb361dffa8e154eaa43224f484b87e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ambiens/ArchToolkit/ATExplore/Modules/BuildSystem/Devices/Graphics/Quest2/LeftController/Quest2_LeftController.prefab using Guid(14eb361dffa8e154eaa43224f484b87e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c79e1649553e24310a00d0bac859db32') in 0.026025 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000365 seconds.
+  path: Assets/Ambiens/ArchToolkit/ATExplore/Modules/BuildSystem/Devices/Graphics/PicoNeo2/PicoNeoLeft.prefab
+  artifactKey: Guid(9b0bd0189abdea14f9b740f6825a331a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ambiens/ArchToolkit/ATExplore/Modules/BuildSystem/Devices/Graphics/PicoNeo2/PicoNeoLeft.prefab using Guid(9b0bd0189abdea14f9b740f6825a331a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6efc8e50e7d5b1b81b96c63199314e89') in 0.014583 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000338 seconds.
+  path: Assets/Ambiens/ArchToolkit/ATExplore/Modules/BuildSystem/Devices/Graphics/WindowsMixedReality/RightController/Controller.prefab
+  artifactKey: Guid(dd7be9aa588d8cb439c7c2841d1c384e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ambiens/ArchToolkit/ATExplore/Modules/BuildSystem/Devices/Graphics/WindowsMixedReality/RightController/Controller.prefab using Guid(dd7be9aa588d8cb439c7c2841d1c384e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f74a8a68094b615131f93825a0a4415') in 0.020010 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000319 seconds.
+  path: Assets/Ambiens/ArchToolkit/ATExplore/Resources/VisitorVR.prefab
+  artifactKey: Guid(84fa2aa540442db4b9589da33801ff65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ambiens/ArchToolkit/ATExplore/Resources/VisitorVR.prefab using Guid(84fa2aa540442db4b9589da33801ff65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ead8d8929e1765a3e221040e5e40130a') in 0.017189 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000318 seconds.
+  path: Assets/Ambiens/ArchToolkit/ATExplore/Samples/KitchenDemoScene/Materials/AVR_Fabric/Fabric_Curtain.mat
+  artifactKey: Guid(1bd4731994c1b424d994b290eed65f80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ambiens/ArchToolkit/ATExplore/Samples/KitchenDemoScene/Materials/AVR_Fabric/Fabric_Curtain.mat using Guid(1bd4731994c1b424d994b290eed65f80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '924919d053688b4bbd1e1f9616e57fda') in 0.028624 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000278 seconds.
+  path: Assets/Ambiens/ArchToolkit/ATExplore/Scripts/MenuSystem/Resources/MainMenuPrefabs/PhotoCameraUI.prefab
+  artifactKey: Guid(4b289f57cb08a6442a417ee3176d7a72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ambiens/ArchToolkit/ATExplore/Scripts/MenuSystem/Resources/MainMenuPrefabs/PhotoCameraUI.prefab using Guid(4b289f57cb08a6442a417ee3176d7a72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb11d5c9894305dc2d503337b7eda06e') in 0.016114 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000284 seconds.
+  path: Assets/Ambiens/ArchToolkit/ATExplore/Modules/AR/Resources/VisitorAR.prefab
+  artifactKey: Guid(8d58ae71a1332734c939c2e4c6e740eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ambiens/ArchToolkit/ATExplore/Modules/AR/Resources/VisitorAR.prefab using Guid(8d58ae71a1332734c939c2e4c6e740eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f4eb664d66d4b8ad2d838a8d0d4558c8') in 0.048619 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000230 seconds.
+  path: Assets/Ambiens/ArchToolkit/ATExplore/Modules/AR/Samples/AmbiensOfficeRoom/Prefabs/AVR_OfficeChair.prefab
+  artifactKey: Guid(d0f4b5871fb64c449914baf39add432e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ambiens/ArchToolkit/ATExplore/Modules/AR/Samples/AmbiensOfficeRoom/Prefabs/AVR_OfficeChair.prefab using Guid(d0f4b5871fb64c449914baf39add432e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67c88c857894456fa373b74b1ce76de8') in 0.039143 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000251 seconds.
+  path: Assets/Ambiens/ArchToolkit/ATExplore/3DModels/VRUtils/AVR_OVRHandPrefab.prefab
+  artifactKey: Guid(a89eb7243182a8641b3b46c2301fd83c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ambiens/ArchToolkit/ATExplore/3DModels/VRUtils/AVR_OVRHandPrefab.prefab using Guid(a89eb7243182a8641b3b46c2301fd83c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d442f7cfbb0837667a25fc544449fc5') in 0.009564 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000333 seconds.
+  path: Assets/Ambiens/ArchToolkit/ATExplore/Modules/AR/Samples/AmbiensOfficeRoom/Prefabs/AVR_KitchenLamp.prefab
+  artifactKey: Guid(d8f3a3df4f7968040881b94e2fd7a98a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ambiens/ArchToolkit/ATExplore/Modules/AR/Samples/AmbiensOfficeRoom/Prefabs/AVR_KitchenLamp.prefab using Guid(d8f3a3df4f7968040881b94e2fd7a98a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a53a7e72b50d0c9dee921161567dd379') in 0.029495 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000272 seconds.
+  path: Assets/Ambiens/ArchToolkit/ATExplore/3DModels/Tom/Materials/defaultMat.mat
+  artifactKey: Guid(d27b8a39fafc64b4f891f4468358eaa7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ambiens/ArchToolkit/ATExplore/3DModels/Tom/Materials/defaultMat.mat using Guid(d27b8a39fafc64b4f891f4468358eaa7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3fb1472a1d4d62a7c806e93fa6f93728') in 0.015143 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000434 seconds.
+  path: Assets/Ambiens/ArchToolkit/ATExplore/Resources/UI/ArchHUD.prefab
+  artifactKey: Guid(0c828b728287b784bb8a590c9d19c473) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ambiens/ArchToolkit/ATExplore/Resources/UI/ArchHUD.prefab using Guid(0c828b728287b784bb8a590c9d19c473) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7640d94364620095a8e81794839e37ad') in 0.029426 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000276 seconds.
+  path: Assets/Ambiens/ArchToolkit/ATExplore/Scripts/MenuSystem/Resources/MainMenuPrefabs/ToggleUI.prefab
+  artifactKey: Guid(def0ccda9128a094d9c679a7b0efbb72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ambiens/ArchToolkit/ATExplore/Scripts/MenuSystem/Resources/MainMenuPrefabs/ToggleUI.prefab using Guid(def0ccda9128a094d9c679a7b0efbb72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c1c0577886a36aab3d6eb6c53a15be3f') in 0.011010 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000285 seconds.
+  path: Assets/Ambiens/ArchToolkit/ATExplore/Resources/SingletonPrefabs/InfoDialog.prefab
+  artifactKey: Guid(8f239eb969593ad40a7fbc39264f6968) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ambiens/ArchToolkit/ATExplore/Resources/SingletonPrefabs/InfoDialog.prefab using Guid(8f239eb969593ad40a7fbc39264f6968) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '343551ac8a8f976c26338e186b1725e7') in 0.018976 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000285 seconds.
+  path: Assets/Ambiens/ArchToolkit/ATExplore/Resources/UI/ArchHUDVRMobile.prefab
+  artifactKey: Guid(bd50da7f2b2586f45a604f3b1a4d159c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ambiens/ArchToolkit/ATExplore/Resources/UI/ArchHUDVRMobile.prefab using Guid(bd50da7f2b2586f45a604f3b1a4d159c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17d7c4adb9bb05fc97a68cc003726eee') in 0.015321 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 12.466884 seconds.
+  path: Assets/Ambiens/ArchToolkit/ATExplore/Samples/KitchenDemoScene/Models/AVR_Air_cond.fbx
+  artifactKey: Guid(fb79be7f3af15c24a98eca829cdf0c98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ambiens/ArchToolkit/ATExplore/Samples/KitchenDemoScene/Models/AVR_Air_cond.fbx using Guid(fb79be7f3af15c24a98eca829cdf0c98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f31e43871f8e96e33bd5118f9cff45f') in 0.027604 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000301 seconds.
+  path: Assets/Ambiens/ArchToolkit/ATExplore/Samples/KitchenDemoScene/Models/AVR_TableWithMug.fbx
+  artifactKey: Guid(d2c9bfda2833d4c4aa77d0b26d62684a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ambiens/ArchToolkit/ATExplore/Samples/KitchenDemoScene/Models/AVR_TableWithMug.fbx using Guid(d2c9bfda2833d4c4aa77d0b26d62684a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f4a9335a4de4c08619d9e9c9e051a037') in 0.070822 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000309 seconds.
+  path: Assets/Ambiens/ArchToolkit/ATExplore/Modules/BuildSystem/Devices/Graphics/Quest2/LeftController/LeftController.fbx
+  artifactKey: Guid(2965902727e319340b968cf6cd56f099) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ambiens/ArchToolkit/ATExplore/Modules/BuildSystem/Devices/Graphics/Quest2/LeftController/LeftController.fbx using Guid(2965902727e319340b968cf6cd56f099) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '228d92f39725736b55dcbb445d1bd4db') in 0.020353 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000362 seconds.
+  path: Assets/Ambiens/ArchToolkit/ATExplore/Modules/BuildSystem/Devices/Graphics/Quest2/RightController/rightController.fbx
+  artifactKey: Guid(e5001c9f20a9dc24fa60fb63cf5fd95b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ambiens/ArchToolkit/ATExplore/Modules/BuildSystem/Devices/Graphics/Quest2/RightController/rightController.fbx using Guid(e5001c9f20a9dc24fa60fb63cf5fd95b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6414a8f0d304d124c96f85318d33ec78') in 0.023104 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000649 seconds.
+  path: Assets/Ambiens/ArchToolkit/ATExplore/Samples/KitchenDemoScene/Models/AVR_LittleTable2.fbx
+  artifactKey: Guid(ce3d2e5af78ec6d4a9e285b5fe1c4871) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ambiens/ArchToolkit/ATExplore/Samples/KitchenDemoScene/Models/AVR_LittleTable2.fbx using Guid(ce3d2e5af78ec6d4a9e285b5fe1c4871) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'edafa2d76da7e0d78b465f48431a57ff') in 0.035654 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000293 seconds.
+  path: Assets/Ambiens/ArchToolkit/ATExplore/3DModels/Tom/Tom.obj
+  artifactKey: Guid(07be1c1d0f63a76408bc86815b601bfd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ambiens/ArchToolkit/ATExplore/3DModels/Tom/Tom.obj using Guid(07be1c1d0f63a76408bc86815b601bfd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd4ea44b7f0f1a0c3a51ebbbefab0c35') in 0.025230 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000272 seconds.
+  path: Assets/Ambiens/ArchToolkit/ATExplore/3DModels/TraslateArrow.fbx
+  artifactKey: Guid(924c2e1eabfd2dc4b91d647b21bc0553) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ambiens/ArchToolkit/ATExplore/3DModels/TraslateArrow.fbx using Guid(924c2e1eabfd2dc4b91d647b21bc0553) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a403ee32809c1391b6ca769d5f8e836') in 0.019065 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000304 seconds.
+  path: Assets/Ambiens/ArchToolkit/ATExplore/Modules/AR/Samples/AmbiensOfficeRoom/Models/AVR_Furniture/AVR_KitchenLamp.fbx
+  artifactKey: Guid(5d0aed41f93f7c04a9b17a925abdd9b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ambiens/ArchToolkit/ATExplore/Modules/AR/Samples/AmbiensOfficeRoom/Models/AVR_Furniture/AVR_KitchenLamp.fbx using Guid(5d0aed41f93f7c04a9b17a925abdd9b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f07dd20192731d4c7bbb3026771388b5') in 0.032201 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000335 seconds.
+  path: Assets/Ambiens/ArchToolkit/ATExplore/Samples/KitchenDemoScene/Models/AVR_Walls.fbx
+  artifactKey: Guid(107b5640713a0ec4bb6c240b503e9a86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ambiens/ArchToolkit/ATExplore/Samples/KitchenDemoScene/Models/AVR_Walls.fbx using Guid(107b5640713a0ec4bb6c240b503e9a86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '961f7df28a14e3bb557fef193019bee6') in 0.059662 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000282 seconds.
+  path: Assets/Ambiens/ArchToolkit/ATExplore/Samples/KitchenDemoScene/Models/AVR_RadiatorElement.fbx
+  artifactKey: Guid(2c7f48ec999061740bb2c9aa407ad524) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ambiens/ArchToolkit/ATExplore/Samples/KitchenDemoScene/Models/AVR_RadiatorElement.fbx using Guid(2c7f48ec999061740bb2c9aa407ad524) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98570d68061166f74b6b084dee687d68') in 0.025743 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000323 seconds.
+  path: Assets/Ambiens/ArchToolkit/ATExplore/Modules/AR/Samples/AmbiensOfficeRoom/Models/AVR_Furniture/AVR_Desk.fbx
+  artifactKey: Guid(e14123c336b96204eb7cd66c24a47315) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ambiens/ArchToolkit/ATExplore/Modules/AR/Samples/AmbiensOfficeRoom/Models/AVR_Furniture/AVR_Desk.fbx using Guid(e14123c336b96204eb7cd66c24a47315) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3cd005c98aaefdc4b375384156046204') in 0.029789 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000372 seconds.
+  path: Assets/Ambiens/ArchToolkit/ATExplore/Modules/AR/Samples/AmbiensOfficeRoom/Models/AVR_Furniture/AVR_Shelf.fbx
+  artifactKey: Guid(2eb537dd764eecb45ba942e6dcdcb2bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ambiens/ArchToolkit/ATExplore/Modules/AR/Samples/AmbiensOfficeRoom/Models/AVR_Furniture/AVR_Shelf.fbx using Guid(2eb537dd764eecb45ba942e6dcdcb2bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f06750404107354451542f2737558a8') in 0.082341 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000301 seconds.
+  path: Assets/Ambiens/ArchToolkit/ATExplore/Samples/KitchenDemoScene/Models/AVR_Chair.fbx
+  artifactKey: Guid(ba5a7593e70ebb5499365feb04a46bd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ambiens/ArchToolkit/ATExplore/Samples/KitchenDemoScene/Models/AVR_Chair.fbx using Guid(ba5a7593e70ebb5499365feb04a46bd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb9d42c29f5602824460dc1c3b0f9d20') in 0.033372 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000289 seconds.
+  path: Assets/Ambiens/ArchToolkit/ATExplore/Samples/KitchenDemoScene/Models/AVR_Curtain.FBX
+  artifactKey: Guid(d55e33c18b10ae54597198f54af1c59d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ambiens/ArchToolkit/ATExplore/Samples/KitchenDemoScene/Models/AVR_Curtain.FBX using Guid(d55e33c18b10ae54597198f54af1c59d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '29fa3a6b6b1779ada5be895c648a35e0') in 0.039212 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000268 seconds.
+  path: Assets/Ambiens/ArchToolkit/ATExplore/Samples/KitchenDemoScene/Models/AVR_TV.fbx
+  artifactKey: Guid(a3bc65d46046cd945b1217c548d56d29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ambiens/ArchToolkit/ATExplore/Samples/KitchenDemoScene/Models/AVR_TV.fbx using Guid(a3bc65d46046cd945b1217c548d56d29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '18e18b6c1deef56b063b7e6750f24fcb') in 0.032604 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000257 seconds.
+  path: Assets/Ambiens/ArchToolkit/ATExplore/Samples/KitchenDemoScene/Models/AVR_Sofa.fbx
+  artifactKey: Guid(91f5916707a0e9f4abdc7755a78b53df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ambiens/ArchToolkit/ATExplore/Samples/KitchenDemoScene/Models/AVR_Sofa.fbx using Guid(91f5916707a0e9f4abdc7755a78b53df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa5e620abe19e7c835cf45798c28d104') in 0.060485 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000228 seconds.
+  path: Assets/Ambiens/ArchToolkit/ATExplore/3DModels/RotArrow.fbx
+  artifactKey: Guid(63ff383d234bb8b4aa57fc2903a61fc8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ambiens/ArchToolkit/ATExplore/3DModels/RotArrow.fbx using Guid(63ff383d234bb8b4aa57fc2903a61fc8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f02901068de6721e00c1ba464a8968a') in 0.025260 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000360 seconds.
+  path: Assets/Ambiens/ArchToolkit/ATExplore/3DModels/VRUtils/flipped_sphere.fbx
+  artifactKey: Guid(591e176f576f7ee44873efc483dcea5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ambiens/ArchToolkit/ATExplore/3DModels/VRUtils/flipped_sphere.fbx using Guid(591e176f576f7ee44873efc483dcea5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eea91473ae56e6d822dc15481b03293a') in 0.020599 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000351 seconds.
+  path: Assets/Ambiens/ArchToolkit/ATExplore/Samples/KitchenDemoScene/Models/AVR_LittleTable.fbx
+  artifactKey: Guid(b8d9730d727581f46b29fc7a397c37bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ambiens/ArchToolkit/ATExplore/Samples/KitchenDemoScene/Models/AVR_LittleTable.fbx using Guid(b8d9730d727581f46b29fc7a397c37bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '877e5f96701d0bc984ee62138357d0c5') in 0.026870 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000267 seconds.
+  path: Assets/Ambiens/ArchToolkit/ATExplore/Modules/BuildSystem/Devices/Graphics/QuestRiftS/RightController/Controller.fbx
+  artifactKey: Guid(4293fd88f0cfde245bddf3bf32e970d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ambiens/ArchToolkit/ATExplore/Modules/BuildSystem/Devices/Graphics/QuestRiftS/RightController/Controller.fbx using Guid(4293fd88f0cfde245bddf3bf32e970d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd924981aae6eb89d8e8eb9990960773e') in 0.031851 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000272 seconds.
+  path: Assets/Ambiens/ArchToolkit/ATExplore/Modules/BuildSystem/Devices/Graphics/QuestRiftS/LeftController/Controller.fbx
+  artifactKey: Guid(fc6d54c28ca9f2b4ca4621f3cd98f961) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ambiens/ArchToolkit/ATExplore/Modules/BuildSystem/Devices/Graphics/QuestRiftS/LeftController/Controller.fbx using Guid(fc6d54c28ca9f2b4ca4621f3cd98f961) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '15c3005febe8ec4046226eb126bcb480') in 0.023683 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000252 seconds.
+  path: Assets/Ambiens/ArchToolkit/ATExplore/Samples/KitchenDemoScene/Models/AVR_PictureFrame.fbx
+  artifactKey: Guid(43995043f3d53e14881a5eb8e28cc2ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ambiens/ArchToolkit/ATExplore/Samples/KitchenDemoScene/Models/AVR_PictureFrame.fbx using Guid(43995043f3d53e14881a5eb8e28cc2ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f97a7c49923a1ebc2e12dfa5b25c6abd') in 0.039704 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000207 seconds.
+  path: Assets/Ambiens/ArchToolkit/ATExplore/Samples/KitchenDemoScene/Models/AVR_Chandelier.fbx
+  artifactKey: Guid(8753a66e85d131a45891a31ffaf4513d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ambiens/ArchToolkit/ATExplore/Samples/KitchenDemoScene/Models/AVR_Chandelier.fbx using Guid(8753a66e85d131a45891a31ffaf4513d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6720d04debeb42f0adb6b54d285fd981') in 0.041566 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000220 seconds.
+  path: Assets/Ambiens/ArchToolkit/ATExplore/3DModels/VRUtils/Controllers/OculusGoController/OculusGoController.fbx
+  artifactKey: Guid(e0f1914fdbfd3764faeff5474c0cbe1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ambiens/ArchToolkit/ATExplore/3DModels/VRUtils/Controllers/OculusGoController/OculusGoController.fbx using Guid(e0f1914fdbfd3764faeff5474c0cbe1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe3bdaa2b5d0ba11da4ce5779d922d21') in 0.018925 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000400 seconds.
+  path: Assets/Ambiens/ArchToolkit/ATExplore/Modules/AR/Samples/AmbiensOfficeRoom/Models/AVR_Furniture/AVR_OfficeChair.fbx
+  artifactKey: Guid(e5d4d8290bb2f9c48b5cc397c7b58d68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ambiens/ArchToolkit/ATExplore/Modules/AR/Samples/AmbiensOfficeRoom/Models/AVR_Furniture/AVR_OfficeChair.fbx using Guid(e5d4d8290bb2f9c48b5cc397c7b58d68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42ba15721b57aec9d29f6d8b6864ea0f') in 0.061241 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000248 seconds.
+  path: Assets/Ambiens/ArchToolkit/ATExplore/Samples/KitchenDemoScene/Models/AVR_Kitchen.fbx
+  artifactKey: Guid(0f51521033bd36444bd760e2731bf8dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ambiens/ArchToolkit/ATExplore/Samples/KitchenDemoScene/Models/AVR_Kitchen.fbx using Guid(0f51521033bd36444bd760e2731bf8dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce4a02f45e5199426635d84a4e9872f3') in 0.184805 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000253 seconds.
+  path: Assets/Ambiens/ArchToolkit/ATExplore/Samples/KitchenDemoScene/Models/AVR_PlayLight.fbx
+  artifactKey: Guid(ea3150e24dee11f42b1e7ddc07355e04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ambiens/ArchToolkit/ATExplore/Samples/KitchenDemoScene/Models/AVR_PlayLight.fbx using Guid(ea3150e24dee11f42b1e7ddc07355e04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b37a75e375cad03f081f86318df81ac4') in 0.043098 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000196 seconds.
+  path: Assets/Ambiens/ArchToolkit/ATExplore/Samples/KitchenDemoScene/Models/AVR_KitchenAccessories.fbx
+  artifactKey: Guid(a6cb5e29293819d47a2af615f7fa088c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ambiens/ArchToolkit/ATExplore/Samples/KitchenDemoScene/Models/AVR_KitchenAccessories.fbx using Guid(a6cb5e29293819d47a2af615f7fa088c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '64cbe3d1d8935168d0d6859e673cdd3d') in 0.073716 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000232 seconds.
+  path: Assets/Ambiens/ArchToolkit/ATExplore/Samples/KitchenDemoScene/Models/AVR_DoorsWindows.fbx
+  artifactKey: Guid(4c70afc629b97b64b9f8a380a7c7996f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ambiens/ArchToolkit/ATExplore/Samples/KitchenDemoScene/Models/AVR_DoorsWindows.fbx using Guid(4c70afc629b97b64b9f8a380a7c7996f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4991295bff4fec4318ec1de84bbd720a') in 0.043799 seconds 
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file
